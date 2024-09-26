@@ -1,0 +1,4516 @@
+[
+    {
+        "filename": "Data\\Stripped\\DSCN0010.jpg",
+        "landmarks": [
+            {
+                "name": "Guindy National Park",
+                "latitude": 13.0049251,
+                "longitude": 80.2378725,
+                "confidence": 1.000000238418579
+            }
+        ],
+        "labels": [
+            {
+                "label": "Plant",
+                "score": 0.9703923463821411
+            },
+            {
+                "label": "Building",
+                "score": 0.9344676733016968
+            },
+            {
+                "label": "Window",
+                "score": 0.9338493943214417
+            },
+            {
+                "label": "Plant community",
+                "score": 0.9333182573318481
+            },
+            {
+                "label": "Natural landscape",
+                "score": 0.8819159865379333
+            },
+            {
+                "label": "Tree",
+                "score": 0.8807962536811829
+            },
+            {
+                "label": "Land lot",
+                "score": 0.8556975722312927
+            },
+            {
+                "label": "Grass",
+                "score": 0.8376838564872742
+            },
+            {
+                "label": "House",
+                "score": 0.8145139217376709
+            },
+            {
+                "label": "Landscape",
+                "score": 0.8075839877128601
+            }
+        ],
+        "web_entities": [
+            {
+                "entity": "M-049",
+                "score": 0.49729999899864197
+            },
+            {
+                "entity": "Rural area",
+                "score": 0.3915889859199524
+            },
+            {
+                "entity": "Farmhouse",
+                "score": 0.36292600631713867
+            },
+            {
+                "entity": "Estate",
+                "score": 0.34724161028862
+            },
+            {
+                "entity": "Roof",
+                "score": 0.3383243978023529
+            },
+            {
+                "entity": "Shrubland",
+                "score": 0.3314143419265747
+            },
+            {
+                "entity": "Cottage M",
+                "score": 0.3248000144958496
+            },
+            {
+                "entity": "Village-m",
+                "score": 0.3190999925136566
+            },
+            {
+                "entity": "Hedge",
+                "score": 0.311471164226532
+            },
+            {
+                "entity": "Tree",
+                "score": 0.3108927309513092
+            }
+        ],
+        "dominant_colors": [
+            {
+                "red": 162.0,
+                "green": 164.0,
+                "blue": 62.0,
+                "score": 0.18273517489433289,
+                "pixel_fraction": 0.07292183488607407
+            },
+            {
+                "red": 175.0,
+                "green": 153.0,
+                "blue": 91.0,
+                "score": 0.10309425741434097,
+                "pixel_fraction": 0.12068598717451096
+            },
+            {
+                "red": 248.0,
+                "green": 229.0,
+                "blue": 195.0,
+                "score": 0.013589042238891125,
+                "pixel_fraction": 0.023244276642799377
+            },
+            {
+                "red": 178.0,
+                "green": 157.0,
+                "blue": 66.0,
+                "score": 0.09219320863485336,
+                "pixel_fraction": 0.03259868174791336
+            },
+            {
+                "red": 143.0,
+                "green": 120.0,
+                "blue": 63.0,
+                "score": 0.07543954253196716,
+                "pixel_fraction": 0.1207568570971489
+            }
+        ],
+        "safe_search": {
+            "adult": "VERY_UNLIKELY",
+            "medical": "VERY_UNLIKELY",
+            "spoofed": "VERY_UNLIKELY",
+            "violence": "VERY_UNLIKELY",
+            "racy": "VERY_UNLIKELY"
+        },
+        "objects": [
+            {
+                "name": "House",
+                "score": 0.6038272976875305,
+                "bounding_poly": [
+                    {
+                        "x": 0.2138671875,
+                        "y": 0.404296875
+                    },
+                    {
+                        "x": 0.5078125,
+                        "y": 0.404296875
+                    },
+                    {
+                        "x": 0.5078125,
+                        "y": 0.60546875
+                    },
+                    {
+                        "x": 0.2138671875,
+                        "y": 0.60546875
+                    }
+                ]
+            },
+            {
+                "name": "House",
+                "score": 0.540765643119812,
+                "bounding_poly": [
+                    {
+                        "x": 0.0220947265625,
+                        "y": 0.068359375
+                    },
+                    {
+                        "x": 0.2158203125,
+                        "y": 0.068359375
+                    },
+                    {
+                        "x": 0.2158203125,
+                        "y": 0.2099609375
+                    },
+                    {
+                        "x": 0.0220947265625,
+                        "y": 0.2099609375
+                    }
+                ]
+            }
+        ],
+        "location": {
+            "lat": 13.0049251,
+            "lng": 80.2378725
+        },
+        "text_coordinates": []
+    },
+    {
+        "filename": "Data\\Stripped\\DSCN0012.jpg",
+        "landmarks": [],
+        "labels": [
+            {
+                "label": "Sky",
+                "score": 0.940946638584137
+            },
+            {
+                "label": "Plant",
+                "score": 0.906687319278717
+            },
+            {
+                "label": "Natural landscape",
+                "score": 0.8871631622314453
+            },
+            {
+                "label": "Road surface",
+                "score": 0.8759463429450989
+            },
+            {
+                "label": "Branch",
+                "score": 0.8694318532943726
+            },
+            {
+                "label": "Tree",
+                "score": 0.8460644483566284
+            },
+            {
+                "label": "Sunlight",
+                "score": 0.843781590461731
+            },
+            {
+                "label": "Trunk",
+                "score": 0.8388619422912598
+            },
+            {
+                "label": "Twig",
+                "score": 0.8304994702339172
+            },
+            {
+                "label": "Wood",
+                "score": 0.826276421546936
+            }
+        ],
+        "web_entities": [
+            {
+                "entity": "Damaksnis",
+                "score": 0.6650999784469604
+            },
+            {
+                "entity": "/m/083vt",
+                "score": 0.5123000144958496
+            },
+            {
+                "entity": "Temperate broadleaf and mixed forests",
+                "score": 0.40310463309288025
+            },
+            {
+                "entity": "People and Nature",
+                "score": 0.4000000059604645
+            },
+            {
+                "entity": "Dirt road",
+                "score": 0.3760364353656769
+            },
+            {
+                "entity": "Road",
+                "score": 0.3693999946117401
+            },
+            {
+                "entity": "Trail",
+                "score": 0.3289835453033447
+            },
+            {
+                "entity": "Forest",
+                "score": 0.32739999890327454
+            },
+            {
+                "entity": "Autumn",
+                "score": 0.323549747467041
+            },
+            {
+                "entity": "Northern hardwood forest",
+                "score": 0.31718775629997253
+            }
+        ],
+        "dominant_colors": [
+            {
+                "red": 192.0,
+                "green": 142.0,
+                "blue": 92.0,
+                "score": 0.1849510222673416,
+                "pixel_fraction": 0.015307207591831684
+            },
+            {
+                "red": 102.0,
+                "green": 84.0,
+                "blue": 30.0,
+                "score": 0.1140398308634758,
+                "pixel_fraction": 0.052937425673007965
+            },
+            {
+                "red": 231.0,
+                "green": 234.0,
+                "blue": 239.0,
+                "score": 0.002507859142497182,
+                "pixel_fraction": 0.0734887644648552
+            },
+            {
+                "red": 139.0,
+                "green": 117.0,
+                "blue": 60.0,
+                "score": 0.09553146362304688,
+                "pixel_fraction": 0.02898447960615158
+            },
+            {
+                "red": 141.0,
+                "green": 121.0,
+                "blue": 27.0,
+                "score": 0.09195815771818161,
+                "pixel_fraction": 0.010133937932550907
+            }
+        ],
+        "safe_search": {
+            "adult": "VERY_UNLIKELY",
+            "medical": "VERY_UNLIKELY",
+            "spoofed": "VERY_UNLIKELY",
+            "violence": "VERY_UNLIKELY",
+            "racy": "VERY_UNLIKELY"
+        },
+        "objects": [],
+        "text_coordinates": []
+    },
+    {
+        "filename": "Data\\Stripped\\DSCN0021.jpg",
+        "landmarks": [
+            {
+                "name": "Monument Of Francesco Petrarca",
+                "latitude": 43.4663944,
+                "longitude": 11.8852009,
+                "confidence": 0.3604579269886017
+            }
+        ],
+        "labels": [
+            {
+                "label": "Plant",
+                "score": 0.932462215423584
+            },
+            {
+                "label": "Branch",
+                "score": 0.8877621293067932
+            },
+            {
+                "label": "Outdoor bench",
+                "score": 0.8859387040138245
+            },
+            {
+                "label": "Building",
+                "score": 0.86306232213974
+            },
+            {
+                "label": "Tree",
+                "score": 0.8617585301399231
+            },
+            {
+                "label": "Sky",
+                "score": 0.8578724265098572
+            },
+            {
+                "label": "Natural landscape",
+                "score": 0.8512929081916809
+            },
+            {
+                "label": "Land lot",
+                "score": 0.8487327098846436
+            },
+            {
+                "label": "Grass",
+                "score": 0.8473830819129944
+            },
+            {
+                "label": "Wood",
+                "score": 0.8378266096115112
+            }
+        ],
+        "web_entities": [
+            {
+                "entity": "Bug bounty program",
+                "score": 0.3846000134944916
+            },
+            {
+                "entity": "",
+                "score": 0.3091000020503998
+            },
+            {
+                "entity": "other",
+                "score": 0.2874000072479248
+            },
+            {
+                "entity": "connect",
+                "score": 0.275299996137619
+            },
+            {
+                "entity": "/m/083vt",
+                "score": 0.2635999917984009
+            },
+            {
+                "entity": "available",
+                "score": 0.2526000142097473
+            },
+            {
+                "entity": "used",
+                "score": 0.2485000044107437
+            },
+            {
+                "entity": "Vulnerability",
+                "score": 0.24740000069141388
+            },
+            {
+                "entity": "Image",
+                "score": 0.24300000071525574
+            },
+            {
+                "entity": "Bugcrowd",
+                "score": 0.23250000178813934
+            }
+        ],
+        "dominant_colors": [
+            {
+                "red": 131.0,
+                "green": 120.0,
+                "blue": 88.0,
+                "score": 0.1868823766708374,
+                "pixel_fraction": 0.2938842177391052
+            },
+            {
+                "red": 235.0,
+                "green": 234.0,
+                "blue": 228.0,
+                "score": 0.12840671837329865,
+                "pixel_fraction": 0.014669407159090042
+            },
+            {
+                "red": 95.0,
+                "green": 98.0,
+                "blue": 4.0,
+                "score": 0.02417478896677494,
+                "pixel_fraction": 0.0140316067263484
+            },
+            {
+                "red": 163.0,
+                "green": 149.0,
+                "blue": 119.0,
+                "score": 0.13297291100025177,
+                "pixel_fraction": 0.06633123010396957
+            },
+            {
+                "red": 203.0,
+                "green": 202.0,
+                "blue": 194.0,
+                "score": 0.08200051635503769,
+                "pixel_fraction": 0.010133937932550907
+            }
+        ],
+        "safe_search": {
+            "adult": "VERY_UNLIKELY",
+            "medical": "VERY_UNLIKELY",
+            "spoofed": "VERY_UNLIKELY",
+            "violence": "VERY_UNLIKELY",
+            "racy": "VERY_UNLIKELY"
+        },
+        "objects": [
+            {
+                "name": "Bench",
+                "score": 0.8939162492752075,
+                "bounding_poly": [
+                    {
+                        "x": 0.0146484375,
+                        "y": 0.65234375
+                    },
+                    {
+                        "x": 0.1806640625,
+                        "y": 0.65234375
+                    },
+                    {
+                        "x": 0.1806640625,
+                        "y": 0.80859375
+                    },
+                    {
+                        "x": 0.0146484375,
+                        "y": 0.80859375
+                    }
+                ]
+            }
+        ],
+        "location": {
+            "lat": 43.4663944,
+            "lng": 11.8852009
+        },
+        "text_coordinates": []
+    },
+    {
+        "filename": "Data\\Stripped\\DSCN0025.jpg",
+        "landmarks": [],
+        "labels": [
+            {
+                "label": "Building",
+                "score": 0.8919969201087952
+            },
+            {
+                "label": "Road surface",
+                "score": 0.868061363697052
+            },
+            {
+                "label": "Window",
+                "score": 0.8489669561386108
+            },
+            {
+                "label": "Neighbourhood",
+                "score": 0.8200294375419617
+            },
+            {
+                "label": "Sky",
+                "score": 0.7938896417617798
+            },
+            {
+                "label": "Road",
+                "score": 0.7916965484619141
+            },
+            {
+                "label": "Alley",
+                "score": 0.7729140520095825
+            },
+            {
+                "label": "City",
+                "score": 0.7631558775901794
+            },
+            {
+                "label": "Flooring",
+                "score": 0.7451545596122742
+            },
+            {
+                "label": "Facade",
+                "score": 0.7416413426399231
+            }
+        ],
+        "web_entities": [
+            {
+                "entity": "Middle Ages",
+                "score": 0.49650001525878906
+            },
+            {
+                "entity": "Tourism",
+                "score": 0.44369998574256897
+            },
+            {
+                "entity": "Medieval architecture",
+                "score": 0.4334678053855896
+            },
+            {
+                "entity": "Architecture",
+                "score": 0.4101000130176544
+            },
+            {
+                "entity": "Concrete",
+                "score": 0.3796190321445465
+            },
+            {
+                "entity": "Pedestrian",
+                "score": 0.374449759721756
+            },
+            {
+                "entity": "Sidewalk",
+                "score": 0.36511626839637756
+            },
+            {
+                "entity": "Village-m",
+                "score": 0.3319999873638153
+            },
+            {
+                "entity": "House",
+                "score": 0.3197454512119293
+            },
+            {
+                "entity": "",
+                "score": 0.3174999952316284
+            }
+        ],
+        "dominant_colors": [
+            {
+                "red": 136.0,
+                "green": 118.0,
+                "blue": 95.0,
+                "score": 0.16177910566329956,
+                "pixel_fraction": 0.13549712300300598
+            },
+            {
+                "red": 62.0,
+                "green": 50.0,
+                "blue": 35.0,
+                "score": 0.15995921194553375,
+                "pixel_fraction": 0.05215789005160332
+            },
+            {
+                "red": 251.0,
+                "green": 249.0,
+                "blue": 248.0,
+                "score": 0.10837431997060776,
+                "pixel_fraction": 0.048331089317798615
+            },
+            {
+                "red": 93.0,
+                "green": 80.0,
+                "blue": 63.0,
+                "score": 0.13574786484241486,
+                "pixel_fraction": 0.1084260493516922
+            },
+            {
+                "red": 87.0,
+                "green": 81.0,
+                "blue": 77.0,
+                "score": 0.08737746626138687,
+                "pixel_fraction": 0.23506484925746918
+            }
+        ],
+        "safe_search": {
+            "adult": "VERY_UNLIKELY",
+            "medical": "VERY_UNLIKELY",
+            "spoofed": "VERY_UNLIKELY",
+            "violence": "VERY_UNLIKELY",
+            "racy": "VERY_UNLIKELY"
+        },
+        "objects": [
+            {
+                "name": "Person",
+                "score": 0.7591501474380493,
+                "bounding_poly": [
+                    {
+                        "x": 0.189453125,
+                        "y": 0.58203125
+                    },
+                    {
+                        "x": 0.244140625,
+                        "y": 0.58203125
+                    },
+                    {
+                        "x": 0.244140625,
+                        "y": 0.7734375
+                    },
+                    {
+                        "x": 0.189453125,
+                        "y": 0.7734375
+                    }
+                ]
+            },
+            {
+                "name": "Window",
+                "score": 0.7100897431373596,
+                "bounding_poly": [
+                    {
+                        "x": 0.65625,
+                        "y": 0.29296875
+                    },
+                    {
+                        "x": 0.69140625,
+                        "y": 0.29296875
+                    },
+                    {
+                        "x": 0.69140625,
+                        "y": 0.455078125
+                    },
+                    {
+                        "x": 0.65625,
+                        "y": 0.455078125
+                    }
+                ]
+            },
+            {
+                "name": "Building",
+                "score": 0.616973340511322,
+                "bounding_poly": [
+                    {
+                        "x": 0.462890625,
+                        "y": 0.0
+                    },
+                    {
+                        "x": 0.9921875,
+                        "y": 0.0
+                    },
+                    {
+                        "x": 0.9921875,
+                        "y": 0.80859375
+                    },
+                    {
+                        "x": 0.462890625,
+                        "y": 0.80859375
+                    }
+                ]
+            },
+            {
+                "name": "Person",
+                "score": 0.5920894742012024,
+                "bounding_poly": [
+                    {
+                        "x": 0.189453125,
+                        "y": 0.58203125
+                    },
+                    {
+                        "x": 0.244140625,
+                        "y": 0.58203125
+                    },
+                    {
+                        "x": 0.244140625,
+                        "y": 0.7734375
+                    },
+                    {
+                        "x": 0.189453125,
+                        "y": 0.7734375
+                    }
+                ]
+            },
+            {
+                "name": "Clothing",
+                "score": 0.5559215545654297,
+                "bounding_poly": [
+                    {
+                        "x": 0.1943359375,
+                        "y": 0.58984375
+                    },
+                    {
+                        "x": 0.2421875,
+                        "y": 0.58984375
+                    },
+                    {
+                        "x": 0.2421875,
+                        "y": 0.76953125
+                    },
+                    {
+                        "x": 0.1943359375,
+                        "y": 0.76953125
+                    }
+                ]
+            },
+            {
+                "name": "Person",
+                "score": 0.5338830351829529,
+                "bounding_poly": [
+                    {
+                        "x": 0.228515625,
+                        "y": 0.578125
+                    },
+                    {
+                        "x": 0.271484375,
+                        "y": 0.578125
+                    },
+                    {
+                        "x": 0.271484375,
+                        "y": 0.75
+                    },
+                    {
+                        "x": 0.228515625,
+                        "y": 0.75
+                    }
+                ]
+            },
+            {
+                "name": "Window",
+                "score": 0.5070008635520935,
+                "bounding_poly": [
+                    {
+                        "x": 0.5546875,
+                        "y": 0.384765625
+                    },
+                    {
+                        "x": 0.58203125,
+                        "y": 0.384765625
+                    },
+                    {
+                        "x": 0.58203125,
+                        "y": 0.52734375
+                    },
+                    {
+                        "x": 0.5546875,
+                        "y": 0.52734375
+                    }
+                ]
+            }
+        ],
+        "text_coordinates": []
+    },
+    {
+        "filename": "Data\\Stripped\\DSCN0027.jpg",
+        "landmarks": [
+            {
+                "name": "Casa Vasari",
+                "latitude": 43.468944500000006,
+                "longitude": 11.8802385,
+                "confidence": 0.6295709609985352
+            },
+            {
+                "name": "The Medici Fortress Park",
+                "latitude": 43.4651273,
+                "longitude": 11.8869797,
+                "confidence": 0.5665748715400696
+            }
+        ],
+        "labels": [
+            {
+                "label": "Building",
+                "score": 0.9223981499671936
+            },
+            {
+                "label": "Sky",
+                "score": 0.9181874990463257
+            },
+            {
+                "label": "Window",
+                "score": 0.9170801043510437
+            },
+            {
+                "label": "Tree",
+                "score": 0.8945098519325256
+            },
+            {
+                "label": "Plant",
+                "score": 0.8751598596572876
+            },
+            {
+                "label": "Road surface",
+                "score": 0.8608548641204834
+            },
+            {
+                "label": "Wall",
+                "score": 0.8075625896453857
+            },
+            {
+                "label": "City",
+                "score": 0.7885187268257141
+            },
+            {
+                "label": "Fire hydrant",
+                "score": 0.7806734442710876
+            },
+            {
+                "label": "Landmark",
+                "score": 0.776390790939331
+            }
+        ],
+        "web_entities": [
+            {
+                "entity": "Middle Ages",
+                "score": 0.5117999911308289
+            },
+            {
+                "entity": "Window",
+                "score": 0.5035819411277771
+            },
+            {
+                "entity": "Medieval architecture",
+                "score": 0.4544389545917511
+            },
+            {
+                "entity": "Historic site",
+                "score": 0.4434441030025482
+            },
+            {
+                "entity": "Hacienda M",
+                "score": 0.41819998621940613
+            },
+            {
+                "entity": "Architecture",
+                "score": 0.41690000891685486
+            },
+            {
+                "entity": "Street",
+                "score": 0.3547833561897278
+            },
+            {
+                "entity": "House",
+                "score": 0.34992536902427673
+            },
+            {
+                "entity": "Castle",
+                "score": 0.3467846214771271
+            },
+            {
+                "entity": "Arch",
+                "score": 0.33796802163124084
+            }
+        ],
+        "dominant_colors": [
+            {
+                "red": 144.0,
+                "green": 123.0,
+                "blue": 98.0,
+                "score": 0.2641783356666565,
+                "pixel_fraction": 0.08815817534923553
+            },
+            {
+                "red": 148.0,
+                "green": 120.0,
+                "blue": 115.0,
+                "score": 0.14418095350265503,
+                "pixel_fraction": 0.0710792988538742
+            },
+            {
+                "red": 231.0,
+                "green": 238.0,
+                "blue": 245.0,
+                "score": 0.02433423139154911,
+                "pixel_fraction": 0.10544964671134949
+            },
+            {
+                "red": 164.0,
+                "green": 143.0,
+                "blue": 118.0,
+                "score": 0.17724262177944183,
+                "pixel_fraction": 0.05952802672982216
+            },
+            {
+                "red": 153.0,
+                "green": 122.0,
+                "blue": 110.0,
+                "score": 0.10896989703178406,
+                "pixel_fraction": 0.02437814511358738
+            }
+        ],
+        "safe_search": {
+            "adult": "VERY_UNLIKELY",
+            "medical": "VERY_UNLIKELY",
+            "spoofed": "VERY_UNLIKELY",
+            "violence": "VERY_UNLIKELY",
+            "racy": "VERY_UNLIKELY"
+        },
+        "objects": [
+            {
+                "name": "Fire hydrant",
+                "score": 0.9073821306228638,
+                "bounding_poly": [
+                    {
+                        "x": 0.5390625,
+                        "y": 0.6875
+                    },
+                    {
+                        "x": 0.67578125,
+                        "y": 0.6875
+                    },
+                    {
+                        "x": 0.67578125,
+                        "y": 0.99609375
+                    },
+                    {
+                        "x": 0.5390625,
+                        "y": 0.99609375
+                    }
+                ]
+            }
+        ],
+        "location": {
+            "lat": 43.468944500000006,
+            "lng": 11.8802385
+        },
+        "text_coordinates": []
+    },
+    {
+        "filename": "Data\\Stripped\\DSCN0029.jpg",
+        "landmarks": [
+            {
+                "name": "Uffizi Gallery",
+                "latitude": 43.767785599999996,
+                "longitude": 11.2553108,
+                "confidence": 0.5055243372917175
+            },
+            {
+                "name": "Residence Palazzo Belfiore",
+                "latitude": 43.766849,
+                "longitude": 11.2501477,
+                "confidence": 0.44100499153137207
+            },
+            {
+                "name": "Palazzo Vecchio",
+                "latitude": 43.7693012,
+                "longitude": 11.2561509,
+                "confidence": 0.4308130443096161
+            },
+            {
+                "name": "Ditta Artigianale, Firenze",
+                "latitude": 43.7669563,
+                "longitude": 11.2508928,
+                "confidence": 0.4291273355484009
+            }
+        ],
+        "labels": [
+            {
+                "label": "Car",
+                "score": 0.955788254737854
+            },
+            {
+                "label": "Automotive parking light",
+                "score": 0.9278595447540283
+            },
+            {
+                "label": "Vehicle",
+                "score": 0.9191554188728333
+            },
+            {
+                "label": "Building",
+                "score": 0.9128696918487549
+            },
+            {
+                "label": "Infrastructure",
+                "score": 0.900117039680481
+            },
+            {
+                "label": "Window",
+                "score": 0.8884070515632629
+            },
+            {
+                "label": "Vehicle registration plate",
+                "score": 0.8874730467796326
+            },
+            {
+                "label": "Sky",
+                "score": 0.8614560961723328
+            },
+            {
+                "label": "Road surface",
+                "score": 0.8561211228370667
+            },
+            {
+                "label": "Neighbourhood",
+                "score": 0.8183324337005615
+            }
+        ],
+        "web_entities": [
+            {
+                "entity": "Car",
+                "score": 0.5333999991416931
+            },
+            {
+                "entity": "Ga h\u00e0ng ho\u00e1 - c\u1ea3ng h\u00e0ng kh\u00f4ng qu\u1ed1c t\u1ebf Ph\u00fa B\u00e0i",
+                "score": 0.46574997901916504
+            },
+            {
+                "entity": "Image",
+                "score": 0.40299999713897705
+            },
+            {
+                "entity": "Tourism",
+                "score": 0.3384000062942505
+            },
+            {
+                "entity": "Hotel",
+                "score": 0.30809998512268066
+            },
+            {
+                "entity": "Car rental",
+                "score": 0.29089999198913574
+            },
+            {
+                "entity": "Villa",
+                "score": 0.2709999978542328
+            },
+            {
+                "entity": "The Ocean Villas",
+                "score": 0.2701600193977356
+            },
+            {
+                "entity": "House",
+                "score": 0.256790429353714
+            },
+            {
+                "entity": "Photograph",
+                "score": 0.251800000667572
+            }
+        ],
+        "dominant_colors": [
+            {
+                "red": 57.0,
+                "green": 49.0,
+                "blue": 28.0,
+                "score": 0.1271311342716217,
+                "pixel_fraction": 0.05697682499885559
+            },
+            {
+                "red": 203.0,
+                "green": 196.0,
+                "blue": 186.0,
+                "score": 0.09488383680582047,
+                "pixel_fraction": 0.0561264269053936
+            },
+            {
+                "red": 84.0,
+                "green": 90.0,
+                "blue": 22.0,
+                "score": 0.038277946412563324,
+                "pixel_fraction": 0.0025512012653052807
+            },
+            {
+                "red": 88.0,
+                "green": 83.0,
+                "blue": 58.0,
+                "score": 0.0929533913731575,
+                "pixel_fraction": 0.06278789788484573
+            },
+            {
+                "red": 241.0,
+                "green": 237.0,
+                "blue": 228.0,
+                "score": 0.09213060885667801,
+                "pixel_fraction": 0.05315002426505089
+            }
+        ],
+        "safe_search": {
+            "adult": "VERY_UNLIKELY",
+            "medical": "VERY_UNLIKELY",
+            "spoofed": "VERY_UNLIKELY",
+            "violence": "VERY_UNLIKELY",
+            "racy": "VERY_UNLIKELY"
+        },
+        "objects": [
+            {
+                "name": "Car",
+                "score": 0.88780677318573,
+                "bounding_poly": [
+                    {
+                        "x": 0.267578125,
+                        "y": 0.76953125
+                    },
+                    {
+                        "x": 0.384765625,
+                        "y": 0.76953125
+                    },
+                    {
+                        "x": 0.384765625,
+                        "y": 0.890625
+                    },
+                    {
+                        "x": 0.267578125,
+                        "y": 0.890625
+                    }
+                ]
+            },
+            {
+                "name": "Car",
+                "score": 0.8111779689788818,
+                "bounding_poly": [
+                    {
+                        "x": 0.00028228759765625,
+                        "y": 0.80859375
+                    },
+                    {
+                        "x": 0.2451171875,
+                        "y": 0.80859375
+                    },
+                    {
+                        "x": 0.2451171875,
+                        "y": 0.9921875
+                    },
+                    {
+                        "x": 0.00028228759765625,
+                        "y": 0.9921875
+                    }
+                ]
+            },
+            {
+                "name": "Building",
+                "score": 0.52080237865448,
+                "bounding_poly": [
+                    {
+                        "x": 0.296875,
+                        "y": 0.06298828125
+                    },
+                    {
+                        "x": 0.53515625,
+                        "y": 0.06298828125
+                    },
+                    {
+                        "x": 0.53515625,
+                        "y": 0.859375
+                    },
+                    {
+                        "x": 0.296875,
+                        "y": 0.859375
+                    }
+                ]
+            },
+            {
+                "name": "Plant",
+                "score": 0.5193718671798706,
+                "bounding_poly": [
+                    {
+                        "x": 0.1591796875,
+                        "y": 0.318359375
+                    },
+                    {
+                        "x": 0.2734375,
+                        "y": 0.318359375
+                    },
+                    {
+                        "x": 0.2734375,
+                        "y": 0.57421875
+                    },
+                    {
+                        "x": 0.1591796875,
+                        "y": 0.57421875
+                    }
+                ]
+            },
+            {
+                "name": "Building",
+                "score": 0.513258695602417,
+                "bounding_poly": [
+                    {
+                        "x": 0.515625,
+                        "y": 0.0
+                    },
+                    {
+                        "x": 0.98828125,
+                        "y": 0.0
+                    },
+                    {
+                        "x": 0.98828125,
+                        "y": 0.9921875
+                    },
+                    {
+                        "x": 0.515625,
+                        "y": 0.9921875
+                    }
+                ]
+            },
+            {
+                "name": "Plant",
+                "score": 0.5116853713989258,
+                "bounding_poly": [
+                    {
+                        "x": 0.640625,
+                        "y": 0.1201171875
+                    },
+                    {
+                        "x": 0.73046875,
+                        "y": 0.1201171875
+                    },
+                    {
+                        "x": 0.73046875,
+                        "y": 0.302734375
+                    },
+                    {
+                        "x": 0.640625,
+                        "y": 0.302734375
+                    }
+                ]
+            }
+        ],
+        "location": {
+            "lat": 43.767785599999996,
+            "lng": 11.2553108
+        },
+        "text_coordinates": [
+            {
+                "text": "K",
+                "coords": [
+                    [
+                        199,
+                        393
+                    ],
+                    [
+                        203,
+                        393
+                    ],
+                    [
+                        203,
+                        397
+                    ],
+                    [
+                        199,
+                        397
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "Data\\Stripped\\DSCN0038.jpg",
+        "landmarks": [],
+        "labels": [
+            {
+                "label": "Building",
+                "score": 0.911542534828186
+            },
+            {
+                "label": "Window",
+                "score": 0.9107980728149414
+            },
+            {
+                "label": "Infrastructure",
+                "score": 0.8902544975280762
+            },
+            {
+                "label": "Fixture",
+                "score": 0.8836053013801575
+            },
+            {
+                "label": "Road surface",
+                "score": 0.8785578012466431
+            },
+            {
+                "label": "Neighbourhood",
+                "score": 0.8509920239448547
+            },
+            {
+                "label": "Flooring",
+                "score": 0.8186231851577759
+            },
+            {
+                "label": "Wood",
+                "score": 0.8147237300872803
+            },
+            {
+                "label": "Alley",
+                "score": 0.811699390411377
+            },
+            {
+                "label": "Road",
+                "score": 0.7975069880485535
+            }
+        ],
+        "web_entities": [
+            {
+                "entity": "File Downloader",
+                "score": 0.6079000234603882
+            },
+            {
+                "entity": "/m/083vt",
+                "score": 0.5194000005722046
+            },
+            {
+                "entity": "JPEG",
+                "score": 0.46230000257492065
+            },
+            {
+                "entity": "Window",
+                "score": 0.45431122183799744
+            },
+            {
+                "entity": "House",
+                "score": 0.4353838562965393
+            },
+            {
+                "entity": "Exif",
+                "score": 0.4162999987602234
+            },
+            {
+                "entity": "Portable Network Graphics",
+                "score": 0.40689998865127563
+            },
+            {
+                "entity": "Architecture",
+                "score": 0.40389999747276306
+            },
+            {
+                "entity": "Tree",
+                "score": 0.37187379598617554
+            },
+            {
+                "entity": "Medieval architecture",
+                "score": 0.35730499029159546
+            }
+        ],
+        "dominant_colors": [
+            {
+                "red": 219.0,
+                "green": 174.0,
+                "blue": 172.0,
+                "score": 0.24077001214027405,
+                "pixel_fraction": 0.0380554161965847
+            },
+            {
+                "red": 173.0,
+                "green": 151.0,
+                "blue": 130.0,
+                "score": 0.17238439619541168,
+                "pixel_fraction": 0.08971723914146423
+            },
+            {
+                "red": 184.0,
+                "green": 153.0,
+                "blue": 157.0,
+                "score": 0.12822508811950684,
+                "pixel_fraction": 0.021330876275897026
+            },
+            {
+                "red": 139.0,
+                "green": 119.0,
+                "blue": 100.0,
+                "score": 0.08780883252620697,
+                "pixel_fraction": 0.1473318636417389
+            },
+            {
+                "red": 170.0,
+                "green": 153.0,
+                "blue": 150.0,
+                "score": 0.04189771041274071,
+                "pixel_fraction": 0.021472610533237457
+            }
+        ],
+        "safe_search": {
+            "adult": "VERY_UNLIKELY",
+            "medical": "VERY_UNLIKELY",
+            "spoofed": "VERY_UNLIKELY",
+            "violence": "VERY_UNLIKELY",
+            "racy": "VERY_UNLIKELY"
+        },
+        "objects": [
+            {
+                "name": "Window",
+                "score": 0.6544598937034607,
+                "bounding_poly": [
+                    {
+                        "x": 0.32421875,
+                        "y": 0.0
+                    },
+                    {
+                        "x": 0.365234375,
+                        "y": 0.0
+                    },
+                    {
+                        "x": 0.365234375,
+                        "y": 0.1748046875
+                    },
+                    {
+                        "x": 0.32421875,
+                        "y": 0.1748046875
+                    }
+                ]
+            },
+            {
+                "name": "Building",
+                "score": 0.5439972877502441,
+                "bounding_poly": [
+                    {
+                        "x": 0.46484375,
+                        "y": 0.09130859375
+                    },
+                    {
+                        "x": 0.73046875,
+                        "y": 0.09130859375
+                    },
+                    {
+                        "x": 0.73046875,
+                        "y": 0.87890625
+                    },
+                    {
+                        "x": 0.46484375,
+                        "y": 0.87890625
+                    }
+                ]
+            },
+            {
+                "name": "House",
+                "score": 0.5103912949562073,
+                "bounding_poly": [
+                    {
+                        "x": 0.46484375,
+                        "y": 0.09130859375
+                    },
+                    {
+                        "x": 0.73046875,
+                        "y": 0.09130859375
+                    },
+                    {
+                        "x": 0.73046875,
+                        "y": 0.87890625
+                    },
+                    {
+                        "x": 0.46484375,
+                        "y": 0.87890625
+                    }
+                ]
+            }
+        ],
+        "text_coordinates": []
+    },
+    {
+        "filename": "Data\\Stripped\\DSCN0040.jpg",
+        "landmarks": [],
+        "labels": [
+            {
+                "label": "Sky",
+                "score": 0.9393349289894104
+            },
+            {
+                "label": "Window",
+                "score": 0.9362626671791077
+            },
+            {
+                "label": "Building",
+                "score": 0.9186722040176392
+            },
+            {
+                "label": "Cloud",
+                "score": 0.8890242576599121
+            },
+            {
+                "label": "Door",
+                "score": 0.8467547297477722
+            },
+            {
+                "label": "Facade",
+                "score": 0.779183030128479
+            },
+            {
+                "label": "Road",
+                "score": 0.7717095017433167
+            },
+            {
+                "label": "City",
+                "score": 0.7711083292961121
+            },
+            {
+                "label": "Road surface",
+                "score": 0.770801305770874
+            },
+            {
+                "label": "Stairs",
+                "score": 0.7322295308113098
+            }
+        ],
+        "web_entities": [
+            {
+                "entity": "Piazza della Badia",
+                "score": 0.7430499792098999
+            },
+            {
+                "entity": "GIF",
+                "score": 0.7021999955177307
+            },
+            {
+                "entity": "GIF Keyboard",
+                "score": 0.5249000191688538
+            },
+            {
+                "entity": "GoGoFirenze",
+                "score": 0.43880000710487366
+            },
+            {
+                "entity": "Architecture",
+                "score": 0.28859999775886536
+            },
+            {
+                "entity": "Tenor",
+                "score": 0.27720001339912415
+            },
+            {
+                "entity": "Exif",
+                "score": 0.2502000033855438
+            },
+            {
+                "entity": "bad",
+                "score": 0.21410000324249268
+            },
+            {
+                "entity": "Location",
+                "score": 0.2013999968767166
+            },
+            {
+                "entity": "Classical architecture",
+                "score": 0.20046380162239075
+            }
+        ],
+        "dominant_colors": [
+            {
+                "red": 91.0,
+                "green": 80.0,
+                "blue": 60.0,
+                "score": 0.3174639344215393,
+                "pixel_fraction": 0.12656792998313904
+            },
+            {
+                "red": 195.0,
+                "green": 189.0,
+                "blue": 170.0,
+                "score": 0.07723752409219742,
+                "pixel_fraction": 0.020267875865101814
+            },
+            {
+                "red": 65.0,
+                "green": 56.0,
+                "blue": 37.0,
+                "score": 0.17824842035770416,
+                "pixel_fraction": 0.06703989952802658
+            },
+            {
+                "red": 120.0,
+                "green": 109.0,
+                "blue": 87.0,
+                "score": 0.14798082411289215,
+                "pixel_fraction": 0.11551272124052048
+            },
+            {
+                "red": 56.0,
+                "green": 51.0,
+                "blue": 43.0,
+                "score": 0.07643420994281769,
+                "pixel_fraction": 0.07221316546201706
+            }
+        ],
+        "safe_search": {
+            "adult": "VERY_UNLIKELY",
+            "medical": "VERY_UNLIKELY",
+            "spoofed": "VERY_UNLIKELY",
+            "violence": "VERY_UNLIKELY",
+            "racy": "VERY_UNLIKELY"
+        },
+        "objects": [
+            {
+                "name": "Building",
+                "score": 0.6293877363204956,
+                "bounding_poly": [
+                    {
+                        "x": 0.578125,
+                        "y": 0.0023651123046875
+                    },
+                    {
+                        "x": 1.0,
+                        "y": 0.0023651123046875
+                    },
+                    {
+                        "x": 1.0,
+                        "y": 0.7265625
+                    },
+                    {
+                        "x": 0.578125,
+                        "y": 0.7265625
+                    }
+                ]
+            },
+            {
+                "name": "Building",
+                "score": 0.6033055186271667,
+                "bounding_poly": [
+                    {
+                        "x": 0.002349853515625,
+                        "y": 0.240234375
+                    },
+                    {
+                        "x": 0.1416015625,
+                        "y": 0.240234375
+                    },
+                    {
+                        "x": 0.1416015625,
+                        "y": 0.72265625
+                    },
+                    {
+                        "x": 0.002349853515625,
+                        "y": 0.72265625
+                    }
+                ]
+            },
+            {
+                "name": "Window",
+                "score": 0.5922830104827881,
+                "bounding_poly": [
+                    {
+                        "x": 0.875,
+                        "y": 0.42578125
+                    },
+                    {
+                        "x": 0.92578125,
+                        "y": 0.42578125
+                    },
+                    {
+                        "x": 0.92578125,
+                        "y": 0.57421875
+                    },
+                    {
+                        "x": 0.875,
+                        "y": 0.57421875
+                    }
+                ]
+            },
+            {
+                "name": "Window",
+                "score": 0.5726653933525085,
+                "bounding_poly": [
+                    {
+                        "x": 0.85546875,
+                        "y": 0.1806640625
+                    },
+                    {
+                        "x": 0.8984375,
+                        "y": 0.1806640625
+                    },
+                    {
+                        "x": 0.8984375,
+                        "y": 0.33203125
+                    },
+                    {
+                        "x": 0.85546875,
+                        "y": 0.33203125
+                    }
+                ]
+            }
+        ],
+        "text_coordinates": []
+    },
+    {
+        "filename": "Data\\Stripped\\DSCN0042.jpg",
+        "landmarks": [],
+        "labels": [
+            {
+                "label": "Building",
+                "score": 0.9475625157356262
+            },
+            {
+                "label": "Sky",
+                "score": 0.9390953183174133
+            },
+            {
+                "label": "Window",
+                "score": 0.9338112473487854
+            },
+            {
+                "label": "Fixture",
+                "score": 0.8650360107421875
+            },
+            {
+                "label": "Neighbourhood",
+                "score": 0.8103336095809937
+            },
+            {
+                "label": "City",
+                "score": 0.789314866065979
+            },
+            {
+                "label": "Facade",
+                "score": 0.7833150029182434
+            },
+            {
+                "label": "Road",
+                "score": 0.775471568107605
+            },
+            {
+                "label": "House",
+                "score": 0.7436830401420593
+            },
+            {
+                "label": "Human settlement",
+                "score": 0.7304754257202148
+            }
+        ],
+        "web_entities": [
+            {
+                "entity": "/m/083vt",
+                "score": 0.5123000144958496
+            },
+            {
+                "entity": "Middle Ages",
+                "score": 0.4791000187397003
+            },
+            {
+                "entity": "Medieval architecture",
+                "score": 0.42621755599975586
+            },
+            {
+                "entity": "Architecture",
+                "score": 0.4052000045776367
+            },
+            {
+                "entity": "Tourism",
+                "score": 0.33480000495910645
+            },
+            {
+                "entity": "Neighbourhood",
+                "score": 0.30810919404029846
+            },
+            {
+                "entity": "Apartment",
+                "score": 0.3073197305202484
+            },
+            {
+                "entity": "Flag",
+                "score": 0.3038775324821472
+            },
+            {
+                "entity": "Wood",
+                "score": 0.30037569999694824
+            },
+            {
+                "entity": "Text",
+                "score": 0.29089879989624023
+            }
+        ],
+        "dominant_colors": [
+            {
+                "red": 135.0,
+                "green": 119.0,
+                "blue": 99.0,
+                "score": 0.39726561307907104,
+                "pixel_fraction": 0.1421585977077484
+            },
+            {
+                "red": 240.0,
+                "green": 243.0,
+                "blue": 247.0,
+                "score": 0.08760980516672134,
+                "pixel_fraction": 0.09559917449951172
+            },
+            {
+                "red": 165.0,
+                "green": 151.0,
+                "blue": 133.0,
+                "score": 0.16229480504989624,
+                "pixel_fraction": 0.030472680926322937
+            },
+            {
+                "red": 104.0,
+                "green": 88.0,
+                "blue": 68.0,
+                "score": 0.07696744054555893,
+                "pixel_fraction": 0.12713485956192017
+            },
+            {
+                "red": 129.0,
+                "green": 119.0,
+                "blue": 111.0,
+                "score": 0.07275108993053436,
+                "pixel_fraction": 0.044929489493370056
+            }
+        ],
+        "safe_search": {
+            "adult": "VERY_UNLIKELY",
+            "medical": "VERY_UNLIKELY",
+            "spoofed": "VERY_UNLIKELY",
+            "violence": "VERY_UNLIKELY",
+            "racy": "VERY_UNLIKELY"
+        },
+        "objects": [
+            {
+                "name": "Window",
+                "score": 0.7092946767807007,
+                "bounding_poly": [
+                    {
+                        "x": 0.77734375,
+                        "y": 0.29296875
+                    },
+                    {
+                        "x": 0.8125,
+                        "y": 0.29296875
+                    },
+                    {
+                        "x": 0.8125,
+                        "y": 0.45703125
+                    },
+                    {
+                        "x": 0.77734375,
+                        "y": 0.45703125
+                    }
+                ]
+            },
+            {
+                "name": "Window",
+                "score": 0.6838809251785278,
+                "bounding_poly": [
+                    {
+                        "x": 0.91796875,
+                        "y": 0.0
+                    },
+                    {
+                        "x": 0.96875,
+                        "y": 0.0
+                    },
+                    {
+                        "x": 0.96875,
+                        "y": 0.1943359375
+                    },
+                    {
+                        "x": 0.91796875,
+                        "y": 0.1943359375
+                    }
+                ]
+            },
+            {
+                "name": "Window",
+                "score": 0.6558485627174377,
+                "bounding_poly": [
+                    {
+                        "x": 0.875,
+                        "y": 0.068359375
+                    },
+                    {
+                        "x": 0.9140625,
+                        "y": 0.068359375
+                    },
+                    {
+                        "x": 0.9140625,
+                        "y": 0.28515625
+                    },
+                    {
+                        "x": 0.875,
+                        "y": 0.28515625
+                    }
+                ]
+            },
+            {
+                "name": "Building",
+                "score": 0.5853557586669922,
+                "bounding_poly": [
+                    {
+                        "x": 0.29296875,
+                        "y": 0.033935546875
+                    },
+                    {
+                        "x": 0.55078125,
+                        "y": 0.033935546875
+                    },
+                    {
+                        "x": 0.55078125,
+                        "y": 0.9921875
+                    },
+                    {
+                        "x": 0.29296875,
+                        "y": 0.9921875
+                    }
+                ]
+            },
+            {
+                "name": "Building",
+                "score": 0.5225095748901367,
+                "bounding_poly": [
+                    {
+                        "x": 0.5625,
+                        "y": 0.004119873046875
+                    },
+                    {
+                        "x": 0.9609375,
+                        "y": 0.004119873046875
+                    },
+                    {
+                        "x": 0.9609375,
+                        "y": 0.99609375
+                    },
+                    {
+                        "x": 0.5625,
+                        "y": 0.99609375
+                    }
+                ]
+            },
+            {
+                "name": "Building",
+                "score": 0.5111259818077087,
+                "bounding_poly": [
+                    {
+                        "x": 0.00201416015625,
+                        "y": 0.0
+                    },
+                    {
+                        "x": 0.361328125,
+                        "y": 0.0
+                    },
+                    {
+                        "x": 0.361328125,
+                        "y": 0.9921875
+                    },
+                    {
+                        "x": 0.00201416015625,
+                        "y": 0.9921875
+                    }
+                ]
+            }
+        ],
+        "text_coordinates": [
+            {
+                "text": "CO",
+                "coords": [
+                    [
+                        0,
+                        392
+                    ],
+                    [
+                        9,
+                        392
+                    ],
+                    [
+                        9,
+                        397
+                    ],
+                    [
+                        0,
+                        397
+                    ]
+                ]
+            },
+            {
+                "text": "le",
+                "coords": [
+                    [
+                        0,
+                        405
+                    ],
+                    [
+                        9,
+                        405
+                    ],
+                    [
+                        9,
+                        412
+                    ],
+                    [
+                        0,
+                        412
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "Data\\Stripped\\HMD_Nokia_8.3_5G.jpg",
+        "landmarks": [],
+        "labels": [
+            {
+                "label": "Water",
+                "score": 0.9776303172111511
+            },
+            {
+                "label": "Sky",
+                "score": 0.9761955142021179
+            },
+            {
+                "label": "Boat",
+                "score": 0.9535908699035645
+            },
+            {
+                "label": "Watercraft",
+                "score": 0.9315251708030701
+            },
+            {
+                "label": "Naval architecture",
+                "score": 0.8926315903663635
+            },
+            {
+                "label": "Cruiseferry",
+                "score": 0.8319423198699951
+            },
+            {
+                "label": "Passenger ship",
+                "score": 0.8019794225692749
+            },
+            {
+                "label": "Lake",
+                "score": 0.789339005947113
+            },
+            {
+                "label": "Waterway",
+                "score": 0.7778061628341675
+            },
+            {
+                "label": "Ship",
+                "score": 0.7722633481025696
+            }
+        ],
+        "web_entities": [
+            {
+                "entity": "Water transportation",
+                "score": 0.7162923812866211
+            },
+            {
+                "entity": "Water",
+                "score": 0.5769000053405762
+            },
+            {
+                "entity": "Freight transport",
+                "score": 0.5444539785385132
+            },
+            {
+                "entity": "Transport",
+                "score": 0.5404000282287598
+            },
+            {
+                "entity": "Boat",
+                "score": 0.506579577922821
+            },
+            {
+                "entity": "Ocean",
+                "score": 0.4545111060142517
+            },
+            {
+                "entity": "Yacht",
+                "score": 0.4309000074863434
+            },
+            {
+                "entity": "Ocean liner",
+                "score": 0.4115995168685913
+            },
+            {
+                "entity": "Boating",
+                "score": 0.37336060404777527
+            },
+            {
+                "entity": "Royal yacht",
+                "score": 0.37121155858039856
+            }
+        ],
+        "dominant_colors": [
+            {
+                "red": 145.0,
+                "green": 172.0,
+                "blue": 209.0,
+                "score": 0.2623930275440216,
+                "pixel_fraction": 0.03218749910593033
+            },
+            {
+                "red": 59.0,
+                "green": 127.0,
+                "blue": 208.0,
+                "score": 0.08076135814189911,
+                "pixel_fraction": 0.31437501311302185
+            },
+            {
+                "red": 54.0,
+                "green": 88.0,
+                "blue": 139.0,
+                "score": 0.05178967863321304,
+                "pixel_fraction": 0.25187501311302185
+            },
+            {
+                "red": 162.0,
+                "green": 186.0,
+                "blue": 219.0,
+                "score": 0.1575414091348648,
+                "pixel_fraction": 0.004062499850988388
+            },
+            {
+                "red": 137.0,
+                "green": 172.0,
+                "blue": 221.0,
+                "score": 0.14979051053524017,
+                "pixel_fraction": 0.10385416448116302
+            }
+        ],
+        "safe_search": {
+            "adult": "VERY_UNLIKELY",
+            "medical": "VERY_UNLIKELY",
+            "spoofed": "VERY_UNLIKELY",
+            "violence": "VERY_UNLIKELY",
+            "racy": "VERY_UNLIKELY"
+        },
+        "objects": [
+            {
+                "name": "Ship",
+                "score": 0.777484655380249,
+                "bounding_poly": [
+                    {
+                        "x": 0.61328125,
+                        "y": 0.48828125
+                    },
+                    {
+                        "x": 0.78125,
+                        "y": 0.48828125
+                    },
+                    {
+                        "x": 0.78125,
+                        "y": 0.578125
+                    },
+                    {
+                        "x": 0.61328125,
+                        "y": 0.578125
+                    }
+                ]
+            },
+            {
+                "name": "Boat",
+                "score": 0.5399399399757385,
+                "bounding_poly": [
+                    {
+                        "x": 0.61328125,
+                        "y": 0.48828125
+                    },
+                    {
+                        "x": 0.78125,
+                        "y": 0.48828125
+                    },
+                    {
+                        "x": 0.78125,
+                        "y": 0.578125
+                    },
+                    {
+                        "x": 0.61328125,
+                        "y": 0.578125
+                    }
+                ]
+            }
+        ],
+        "text_coordinates": [
+            {
+                "text": "(",
+                "coords": [
+                    [
+                        1555,
+                        1103
+                    ],
+                    [
+                        1549,
+                        1103
+                    ],
+                    [
+                        1549,
+                        1094
+                    ],
+                    [
+                        1555,
+                        1094
+                    ]
+                ]
+            },
+            {
+                "text": "1101",
+                "coords": [
+                    [
+                        1547,
+                        1103
+                    ],
+                    [
+                        1510,
+                        1103
+                    ],
+                    [
+                        1510,
+                        1094
+                    ],
+                    [
+                        1547,
+                        1094
+                    ]
+                ]
+            },
+            {
+                "text": "ECKERO",
+                "coords": [
+                    [
+                        1507,
+                        1109
+                    ],
+                    [
+                        1552,
+                        1109
+                    ],
+                    [
+                        1552,
+                        1138
+                    ],
+                    [
+                        1507,
+                        1138
+                    ]
+                ]
+            },
+            {
+                "text": "LINE",
+                "coords": [
+                    [
+                        1555,
+                        1109
+                    ],
+                    [
+                        1583,
+                        1109
+                    ],
+                    [
+                        1583,
+                        1137
+                    ],
+                    [
+                        1555,
+                        1137
+                    ]
+                ]
+            },
+            {
+                "text": "P",
+                "coords": [
+                    [
+                        3013,
+                        1117
+                    ],
+                    [
+                        3023,
+                        1116
+                    ],
+                    [
+                        3024,
+                        1131
+                    ],
+                    [
+                        3014,
+                        1132
+                    ]
+                ]
+            },
+            {
+                "text": "&",
+                "coords": [
+                    [
+                        3020,
+                        1116
+                    ],
+                    [
+                        3031,
+                        1115
+                    ],
+                    [
+                        3032,
+                        1130
+                    ],
+                    [
+                        3021,
+                        1131
+                    ]
+                ]
+            },
+            {
+                "text": "O",
+                "coords": [
+                    [
+                        3029,
+                        1116
+                    ],
+                    [
+                        3041,
+                        1115
+                    ],
+                    [
+                        3042,
+                        1130
+                    ],
+                    [
+                        3030,
+                        1131
+                    ]
+                ]
+            },
+            {
+                "text": "CRUISES",
+                "coords": [
+                    [
+                        3046,
+                        1114
+                    ],
+                    [
+                        3099,
+                        1111
+                    ],
+                    [
+                        3100,
+                        1127
+                    ],
+                    [
+                        3047,
+                        1130
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "Data\\Stripped\\IMG_0007 (1).JPEG",
+        "landmarks": [],
+        "labels": [
+            {
+                "label": "Cloud",
+                "score": 0.9814306497573853
+            },
+            {
+                "label": "Sky",
+                "score": 0.9723101258277893
+            },
+            {
+                "label": "Atmosphere",
+                "score": 0.9481807947158813
+            },
+            {
+                "label": "Car",
+                "score": 0.9444394707679749
+            },
+            {
+                "label": "Wheel",
+                "score": 0.9347655177116394
+            },
+            {
+                "label": "Tire",
+                "score": 0.919962465763092
+            },
+            {
+                "label": "Light",
+                "score": 0.9112846255302429
+            },
+            {
+                "label": "Infrastructure",
+                "score": 0.8902685642242432
+            },
+            {
+                "label": "Automotive lighting",
+                "score": 0.888829231262207
+            },
+            {
+                "label": "Vehicle",
+                "score": 0.8837876915931702
+            }
+        ],
+        "web_entities": [
+            {
+                "entity": "Car",
+                "score": 0.5879999995231628
+            },
+            {
+                "entity": "Family car",
+                "score": 0.4038277268409729
+            },
+            {
+                "entity": "Red sky at morning",
+                "score": 0.39476171135902405
+            },
+            {
+                "entity": "Parking",
+                "score": 0.37744003534317017
+            },
+            {
+                "entity": "Family",
+                "score": 0.374099999666214
+            },
+            {
+                "entity": "",
+                "score": 0.374099999666214
+            },
+            {
+                "entity": "Electrical network",
+                "score": 0.3494345247745514
+            },
+            {
+                "entity": "Overhead power line",
+                "score": 0.3415590226650238
+            },
+            {
+                "entity": "Traffic",
+                "score": 0.3385767936706543
+            },
+            {
+                "entity": "Wire",
+                "score": 0.3381500542163849
+            }
+        ],
+        "dominant_colors": [
+            {
+                "red": 192.0,
+                "green": 142.0,
+                "blue": 161.0,
+                "score": 0.21521207690238953,
+                "pixel_fraction": 0.061238937079906464
+            },
+            {
+                "red": 232.0,
+                "green": 175.0,
+                "blue": 159.0,
+                "score": 0.0732368528842926,
+                "pixel_fraction": 0.022772861644625664
+            },
+            {
+                "red": 58.0,
+                "green": 46.0,
+                "blue": 72.0,
+                "score": 0.003544721519574523,
+                "pixel_fraction": 0.019587021321058273
+            },
+            {
+                "red": 181.0,
+                "green": 141.0,
+                "blue": 180.0,
+                "score": 0.1411094218492508,
+                "pixel_fraction": 0.11044247448444366
+            },
+            {
+                "red": 200.0,
+                "green": 137.0,
+                "blue": 157.0,
+                "score": 0.0845864862203598,
+                "pixel_fraction": 0.015221239067614079
+            }
+        ],
+        "safe_search": {
+            "adult": "VERY_UNLIKELY",
+            "medical": "VERY_UNLIKELY",
+            "spoofed": "VERY_UNLIKELY",
+            "violence": "VERY_UNLIKELY",
+            "racy": "VERY_UNLIKELY"
+        },
+        "objects": [
+            {
+                "name": "Car",
+                "score": 0.8530693650245667,
+                "bounding_poly": [
+                    {
+                        "x": 0.08447265625,
+                        "y": 0.87890625
+                    },
+                    {
+                        "x": 0.2412109375,
+                        "y": 0.87890625
+                    },
+                    {
+                        "x": 0.2412109375,
+                        "y": 0.953125
+                    },
+                    {
+                        "x": 0.08447265625,
+                        "y": 0.953125
+                    }
+                ]
+            },
+            {
+                "name": "Car",
+                "score": 0.849237859249115,
+                "bounding_poly": [
+                    {
+                        "x": 0.1904296875,
+                        "y": 0.8984375
+                    },
+                    {
+                        "x": 0.6015625,
+                        "y": 0.8984375
+                    },
+                    {
+                        "x": 0.6015625,
+                        "y": 0.9921875
+                    },
+                    {
+                        "x": 0.1904296875,
+                        "y": 0.9921875
+                    }
+                ]
+            },
+            {
+                "name": "Car",
+                "score": 0.83693927526474,
+                "bounding_poly": [
+                    {
+                        "x": 0.6171875,
+                        "y": 0.88671875
+                    },
+                    {
+                        "x": 0.71875,
+                        "y": 0.88671875
+                    },
+                    {
+                        "x": 0.71875,
+                        "y": 0.953125
+                    },
+                    {
+                        "x": 0.6171875,
+                        "y": 0.953125
+                    }
+                ]
+            },
+            {
+                "name": "Car",
+                "score": 0.8289225697517395,
+                "bounding_poly": [
+                    {
+                        "x": 0.89453125,
+                        "y": 0.859375
+                    },
+                    {
+                        "x": 0.99609375,
+                        "y": 0.859375
+                    },
+                    {
+                        "x": 0.99609375,
+                        "y": 0.96484375
+                    },
+                    {
+                        "x": 0.89453125,
+                        "y": 0.96484375
+                    }
+                ]
+            }
+        ],
+        "text_coordinates": []
+    },
+    {
+        "filename": "Data\\Stripped\\IMG_0030.JPEG",
+        "landmarks": [],
+        "labels": [
+            {
+                "label": "Water",
+                "score": 0.979411780834198
+            },
+            {
+                "label": "Cloud",
+                "score": 0.9649791717529297
+            },
+            {
+                "label": "Sky",
+                "score": 0.9648173451423645
+            },
+            {
+                "label": "Water resources",
+                "score": 0.9488963484764099
+            },
+            {
+                "label": "Atmosphere",
+                "score": 0.9481807947158813
+            },
+            {
+                "label": "Afterglow",
+                "score": 0.9126306176185608
+            },
+            {
+                "label": "Natural landscape",
+                "score": 0.8926413059234619
+            },
+            {
+                "label": "Plant",
+                "score": 0.8811681866645813
+            },
+            {
+                "label": "Orange",
+                "score": 0.8656256794929504
+            },
+            {
+                "label": "Tree",
+                "score": 0.8592173457145691
+            }
+        ],
+        "web_entities": [
+            {
+                "entity": "Wetland",
+                "score": 0.4786534011363983
+            },
+            {
+                "entity": "Red sky at morning",
+                "score": 0.4568251073360443
+            },
+            {
+                "entity": "Sunset",
+                "score": 0.45494064688682556
+            },
+            {
+                "entity": "Night",
+                "score": 0.3702687621116638
+            },
+            {
+                "entity": "Evening",
+                "score": 0.3679587244987488
+            },
+            {
+                "entity": "Bayou",
+                "score": 0.3541201949119568
+            },
+            {
+                "entity": "Sunlight",
+                "score": 0.3326532244682312
+            },
+            {
+                "entity": "Sea",
+                "score": 0.3325110673904419
+            },
+            {
+                "entity": "Cumulus",
+                "score": 0.30575424432754517
+            },
+            {
+                "entity": "Tree",
+                "score": 0.3041672110557556
+            }
+        ],
+        "dominant_colors": [
+            {
+                "red": 252.0,
+                "green": 244.0,
+                "blue": 89.0,
+                "score": 0.21603576838970184,
+                "pixel_fraction": 0.014926253817975521
+            },
+            {
+                "red": 215.0,
+                "green": 155.0,
+                "blue": 104.0,
+                "score": 0.14567668735980988,
+                "pixel_fraction": 0.03769911453127861
+            },
+            {
+                "red": 123.0,
+                "green": 72.0,
+                "blue": 27.0,
+                "score": 0.049697671085596085,
+                "pixel_fraction": 0.04637167975306511
+            },
+            {
+                "red": 251.0,
+                "green": 224.0,
+                "blue": 85.0,
+                "score": 0.07006670534610748,
+                "pixel_fraction": 0.006843657698482275
+            },
+            {
+                "red": 224.0,
+                "green": 152.0,
+                "blue": 80.0,
+                "score": 0.06241650506854057,
+                "pixel_fraction": 0.01988200657069683
+            }
+        ],
+        "safe_search": {
+            "adult": "VERY_UNLIKELY",
+            "medical": "VERY_UNLIKELY",
+            "spoofed": "VERY_UNLIKELY",
+            "violence": "VERY_UNLIKELY",
+            "racy": "VERY_UNLIKELY"
+        },
+        "objects": [],
+        "text_coordinates": []
+    },
+    {
+        "filename": "Data\\Stripped\\IMG_0170 (1).JPEG",
+        "landmarks": [],
+        "labels": [
+            {
+                "label": "Plant",
+                "score": 0.9675068259239197
+            },
+            {
+                "label": "Plant community",
+                "score": 0.9340348839759827
+            },
+            {
+                "label": "Ecoregion",
+                "score": 0.9210101962089539
+            },
+            {
+                "label": "Natural landscape",
+                "score": 0.8898186087608337
+            },
+            {
+                "label": "Tree",
+                "score": 0.8833725452423096
+            },
+            {
+                "label": "Wood",
+                "score": 0.8816095590591431
+            },
+            {
+                "label": "Bedrock",
+                "score": 0.875758945941925
+            },
+            {
+                "label": "Branch",
+                "score": 0.8692954182624817
+            },
+            {
+                "label": "Terrestrial plant",
+                "score": 0.8641734719276428
+            },
+            {
+                "label": "Trunk",
+                "score": 0.8540642261505127
+            }
+        ],
+        "web_entities": [
+            {
+                "entity": "Damaksnis",
+                "score": 0.7278000116348267
+            },
+            {
+                "entity": "Riparian forest",
+                "score": 0.4845826327800751
+            },
+            {
+                "entity": "Riparian zone",
+                "score": 0.4742727279663086
+            },
+            {
+                "entity": "/m/083vt",
+                "score": 0.4595000147819519
+            },
+            {
+                "entity": "Temperate coniferous forest",
+                "score": 0.453900009393692
+            },
+            {
+                "entity": "Forest",
+                "score": 0.43070000410079956
+            },
+            {
+                "entity": "Old-growth forest",
+                "score": 0.4301919639110565
+            },
+            {
+                "entity": "Temperate broadleaf and mixed forests",
+                "score": 0.42466968297958374
+            },
+            {
+                "entity": "Spruce",
+                "score": 0.4083999991416931
+            },
+            {
+                "entity": "Northern hardwood forest",
+                "score": 0.40193185210227966
+            }
+        ],
+        "dominant_colors": [
+            {
+                "red": 150.0,
+                "green": 162.0,
+                "blue": 98.0,
+                "score": 0.13807295262813568,
+                "pixel_fraction": 0.029557522386312485
+            },
+            {
+                "red": 44.0,
+                "green": 50.0,
+                "blue": 40.0,
+                "score": 0.09964814782142639,
+                "pixel_fraction": 0.11427728831768036
+            },
+            {
+                "red": 235.0,
+                "green": 234.0,
+                "blue": 200.0,
+                "score": 0.04713529348373413,
+                "pixel_fraction": 0.011268436908721924
+            },
+            {
+                "red": 132.0,
+                "green": 169.0,
+                "blue": 71.0,
+                "score": 0.0037626666016876698,
+                "pixel_fraction": 0.000530973426066339
+            },
+            {
+                "red": 190.0,
+                "green": 197.0,
+                "blue": 130.0,
+                "score": 0.13534493744373322,
+                "pixel_fraction": 0.020176991820335388
+            }
+        ],
+        "safe_search": {
+            "adult": "VERY_UNLIKELY",
+            "medical": "VERY_UNLIKELY",
+            "spoofed": "VERY_UNLIKELY",
+            "violence": "VERY_UNLIKELY",
+            "racy": "UNLIKELY"
+        },
+        "objects": [
+            {
+                "name": "Bridge",
+                "score": 0.5930889248847961,
+                "bounding_poly": [
+                    {
+                        "x": 0.0191650390625,
+                        "y": 0.2236328125
+                    },
+                    {
+                        "x": 0.9453125,
+                        "y": 0.2236328125
+                    },
+                    {
+                        "x": 0.9453125,
+                        "y": 0.88671875
+                    },
+                    {
+                        "x": 0.0191650390625,
+                        "y": 0.88671875
+                    }
+                ]
+            }
+        ],
+        "text_coordinates": []
+    },
+    {
+        "filename": "Data\\Stripped\\IMG_0615 (1).JPEG",
+        "landmarks": [],
+        "labels": [
+            {
+                "label": "Sky",
+                "score": 0.9674600958824158
+            },
+            {
+                "label": "Atmosphere",
+                "score": 0.9481807947158813
+            },
+            {
+                "label": "Flash photography",
+                "score": 0.8663039803504944
+            },
+            {
+                "label": "Tree",
+                "score": 0.8566558361053467
+            },
+            {
+                "label": "Automotive lighting",
+                "score": 0.817984402179718
+            },
+            {
+                "label": "Gas",
+                "score": 0.7807359099388123
+            },
+            {
+                "label": "Tints and shades",
+                "score": 0.7737511992454529
+            },
+            {
+                "label": "Landscape",
+                "score": 0.7681248188018799
+            },
+            {
+                "label": "Heat",
+                "score": 0.752749502658844
+            },
+            {
+                "label": "Hat",
+                "score": 0.7037810683250427
+            }
+        ],
+        "web_entities": [
+            {
+                "entity": "Photography",
+                "score": 0.5156000256538391
+            },
+            {
+                "entity": "M-027",
+                "score": 0.5051000118255615
+            },
+            {
+                "entity": "Lens flare",
+                "score": 0.46506762504577637
+            },
+            {
+                "entity": "Road",
+                "score": 0.4490622580051422
+            },
+            {
+                "entity": "Still life photography",
+                "score": 0.4390393793582916
+            },
+            {
+                "entity": "Celestial Object",
+                "score": 0.4023912250995636
+            },
+            {
+                "entity": "Street light",
+                "score": 0.38901716470718384
+            },
+            {
+                "entity": "Still life",
+                "score": 0.38839998841285706
+            },
+            {
+                "entity": "Lens",
+                "score": 0.3709999918937683
+            },
+            {
+                "entity": "Flash",
+                "score": 0.35409998893737793
+            }
+        ],
+        "dominant_colors": [
+            {
+                "red": 159.0,
+                "green": 154.0,
+                "blue": 143.0,
+                "score": 0.27546945214271545,
+                "pixel_fraction": 0.11769911646842957
+            },
+            {
+                "red": 191.0,
+                "green": 186.0,
+                "blue": 166.0,
+                "score": 0.22297273576259613,
+                "pixel_fraction": 0.05669616535305977
+            },
+            {
+                "red": 114.0,
+                "green": 73.0,
+                "blue": 31.0,
+                "score": 0.02764541655778885,
+                "pixel_fraction": 0.014218289405107498
+            },
+            {
+                "red": 77.0,
+                "green": 43.0,
+                "blue": 20.0,
+                "score": 0.021390393376350403,
+                "pixel_fraction": 0.02294985204935074
+            },
+            {
+                "red": 27.0,
+                "green": 15.0,
+                "blue": 8.0,
+                "score": 0.0065430947579443455,
+                "pixel_fraction": 0.22477875649929047
+            }
+        ],
+        "safe_search": {
+            "adult": "VERY_UNLIKELY",
+            "medical": "VERY_UNLIKELY",
+            "spoofed": "VERY_UNLIKELY",
+            "violence": "UNLIKELY",
+            "racy": "VERY_UNLIKELY"
+        },
+        "objects": [
+            {
+                "name": "Clothing",
+                "score": 0.7770231366157532,
+                "bounding_poly": [
+                    {
+                        "x": 0.6015625,
+                        "y": 0.7109375
+                    },
+                    {
+                        "x": 0.671875,
+                        "y": 0.7109375
+                    },
+                    {
+                        "x": 0.671875,
+                        "y": 0.83984375
+                    },
+                    {
+                        "x": 0.6015625,
+                        "y": 0.83984375
+                    }
+                ]
+            },
+            {
+                "name": "Person",
+                "score": 0.7398520112037659,
+                "bounding_poly": [
+                    {
+                        "x": 0.58984375,
+                        "y": 0.67578125
+                    },
+                    {
+                        "x": 0.68359375,
+                        "y": 0.67578125
+                    },
+                    {
+                        "x": 0.68359375,
+                        "y": 0.88671875
+                    },
+                    {
+                        "x": 0.58984375,
+                        "y": 0.88671875
+                    }
+                ]
+            },
+            {
+                "name": "Person",
+                "score": 0.6841721534729004,
+                "bounding_poly": [
+                    {
+                        "x": 0.4296875,
+                        "y": 0.4609375
+                    },
+                    {
+                        "x": 0.48046875,
+                        "y": 0.4609375
+                    },
+                    {
+                        "x": 0.48046875,
+                        "y": 0.56640625
+                    },
+                    {
+                        "x": 0.4296875,
+                        "y": 0.56640625
+                    }
+                ]
+            }
+        ],
+        "text_coordinates": []
+    },
+    {
+        "filename": "Data\\Stripped\\IMG_4964.JPEG",
+        "landmarks": [
+            {
+                "name": "Theo's Cozy Corner Restaurant",
+                "latitude": 42.3661235,
+                "longitude": -71.0550942,
+                "confidence": 0.43747586011886597
+            },
+            {
+                "name": "Saus Boston",
+                "latitude": 42.3611351,
+                "longitude": -71.0568583,
+                "confidence": 0.386750191450119
+            },
+            {
+                "name": "Pauli's",
+                "latitude": 42.3633174,
+                "longitude": -71.0559772,
+                "confidence": 0.3582038879394531
+            },
+            {
+                "name": "Boston National Historical Park",
+                "latitude": 42.373565,
+                "longitude": -71.0560388,
+                "confidence": 0.3183657228946686
+            },
+            {
+                "name": "La Famiglia Giorgio's Restaurant",
+                "latitude": 42.3645597,
+                "longitude": -71.0555835,
+                "confidence": 0.3051559031009674
+            },
+            {
+                "name": "Massimino's",
+                "latitude": 42.3665351,
+                "longitude": -71.05788559999999,
+                "confidence": 0.2942522168159485
+            }
+        ],
+        "labels": [
+            {
+                "label": "Sky",
+                "score": 0.9618566036224365
+            },
+            {
+                "label": "Land vehicle",
+                "score": 0.9593392610549927
+            },
+            {
+                "label": "Building",
+                "score": 0.9579306244850159
+            },
+            {
+                "label": "Window",
+                "score": 0.9365863800048828
+            },
+            {
+                "label": "Car",
+                "score": 0.92268967628479
+            },
+            {
+                "label": "Vehicle",
+                "score": 0.9130158424377441
+            },
+            {
+                "label": "Vehicle registration plate",
+                "score": 0.8941296935081482
+            },
+            {
+                "label": "Infrastructure",
+                "score": 0.8892046213150024
+            },
+            {
+                "label": "Street light",
+                "score": 0.8852242827415466
+            },
+            {
+                "label": "Road surface",
+                "score": 0.8730385899543762
+            }
+        ],
+        "web_entities": [
+            {
+                "entity": "Car",
+                "score": 0.5759999752044678
+            },
+            {
+                "entity": "A-segment",
+                "score": 0.4883727729320526
+            },
+            {
+                "entity": "Zebra crossing",
+                "score": 0.4870818555355072
+            },
+            {
+                "entity": "Street",
+                "score": 0.47313177585601807
+            },
+            {
+                "entity": "Pedestrian",
+                "score": 0.46636638045310974
+            },
+            {
+                "entity": "Traffic",
+                "score": 0.44897764921188354
+            },
+            {
+                "entity": "Neighbourhood",
+                "score": 0.4461919069290161
+            },
+            {
+                "entity": "Apartment",
+                "score": 0.44439697265625
+            },
+            {
+                "entity": "Sidewalk",
+                "score": 0.43081945180892944
+            },
+            {
+                "entity": "Street light",
+                "score": 0.4254789650440216
+            }
+        ],
+        "dominant_colors": [
+            {
+                "red": 137.0,
+                "green": 187.0,
+                "blue": 242.0,
+                "score": 0.36916279792785645,
+                "pixel_fraction": 0.15368731319904327
+            },
+            {
+                "red": 14.0,
+                "green": 22.0,
+                "blue": 41.0,
+                "score": 0.20388801395893097,
+                "pixel_fraction": 0.03764011710882187
+            },
+            {
+                "red": 182.0,
+                "green": 138.0,
+                "blue": 121.0,
+                "score": 0.1302981972694397,
+                "pixel_fraction": 0.07746312767267227
+            },
+            {
+                "red": 73.0,
+                "green": 95.0,
+                "blue": 63.0,
+                "score": 0.004498674068599939,
+                "pixel_fraction": 0.0033628318924456835
+            },
+            {
+                "red": 0.0,
+                "green": 18.0,
+                "blue": 57.0,
+                "score": 0.0011676852591335773,
+                "pixel_fraction": 0.00029498524963855743
+            }
+        ],
+        "safe_search": {
+            "adult": "VERY_UNLIKELY",
+            "medical": "VERY_UNLIKELY",
+            "spoofed": "VERY_UNLIKELY",
+            "violence": "VERY_UNLIKELY",
+            "racy": "VERY_UNLIKELY"
+        },
+        "objects": [
+            {
+                "name": "Car",
+                "score": 0.8835180401802063,
+                "bounding_poly": [
+                    {
+                        "x": 0.55859375,
+                        "y": 0.78515625
+                    },
+                    {
+                        "x": 0.8359375,
+                        "y": 0.78515625
+                    },
+                    {
+                        "x": 0.8359375,
+                        "y": 0.94140625
+                    },
+                    {
+                        "x": 0.55859375,
+                        "y": 0.94140625
+                    }
+                ]
+            },
+            {
+                "name": "Person",
+                "score": 0.704642117023468,
+                "bounding_poly": [
+                    {
+                        "x": 0.87890625,
+                        "y": 0.765625
+                    },
+                    {
+                        "x": 0.9453125,
+                        "y": 0.765625
+                    },
+                    {
+                        "x": 0.9453125,
+                        "y": 0.875
+                    },
+                    {
+                        "x": 0.87890625,
+                        "y": 0.875
+                    }
+                ]
+            },
+            {
+                "name": "Person",
+                "score": 0.6833108067512512,
+                "bounding_poly": [
+                    {
+                        "x": 0.828125,
+                        "y": 0.76953125
+                    },
+                    {
+                        "x": 0.9921875,
+                        "y": 0.76953125
+                    },
+                    {
+                        "x": 0.9921875,
+                        "y": 1.0
+                    },
+                    {
+                        "x": 0.828125,
+                        "y": 1.0
+                    }
+                ]
+            },
+            {
+                "name": "Building",
+                "score": 0.6832059621810913,
+                "bounding_poly": [
+                    {
+                        "x": 0.01025390625,
+                        "y": 0.0145263671875
+                    },
+                    {
+                        "x": 0.56640625,
+                        "y": 0.0145263671875
+                    },
+                    {
+                        "x": 0.56640625,
+                        "y": 0.84375
+                    },
+                    {
+                        "x": 0.01025390625,
+                        "y": 0.84375
+                    }
+                ]
+            },
+            {
+                "name": "Car",
+                "score": 0.5669639110565186,
+                "bounding_poly": [
+                    {
+                        "x": 0.76171875,
+                        "y": 0.78125
+                    },
+                    {
+                        "x": 0.87890625,
+                        "y": 0.78125
+                    },
+                    {
+                        "x": 0.87890625,
+                        "y": 0.89453125
+                    },
+                    {
+                        "x": 0.76171875,
+                        "y": 0.89453125
+                    }
+                ]
+            },
+            {
+                "name": "Person",
+                "score": 0.5534370541572571,
+                "bounding_poly": [
+                    {
+                        "x": 0.828125,
+                        "y": 0.76953125
+                    },
+                    {
+                        "x": 0.9921875,
+                        "y": 0.76953125
+                    },
+                    {
+                        "x": 0.9921875,
+                        "y": 1.0
+                    },
+                    {
+                        "x": 0.828125,
+                        "y": 1.0
+                    }
+                ]
+            },
+            {
+                "name": "Building",
+                "score": 0.5178705453872681,
+                "bounding_poly": [
+                    {
+                        "x": 0.734375,
+                        "y": 0.56640625
+                    },
+                    {
+                        "x": 0.8359375,
+                        "y": 0.56640625
+                    },
+                    {
+                        "x": 0.8359375,
+                        "y": 0.78515625
+                    },
+                    {
+                        "x": 0.734375,
+                        "y": 0.78515625
+                    }
+                ]
+            },
+            {
+                "name": "Building",
+                "score": 0.5009761452674866,
+                "bounding_poly": [
+                    {
+                        "x": 0.53125,
+                        "y": 0.2265625
+                    },
+                    {
+                        "x": 0.703125,
+                        "y": 0.2265625
+                    },
+                    {
+                        "x": 0.703125,
+                        "y": 0.82421875
+                    },
+                    {
+                        "x": 0.53125,
+                        "y": 0.82421875
+                    }
+                ]
+            }
+        ],
+        "location": {
+            "lat": 42.3661235,
+            "lng": -71.0550942
+        },
+        "text_coordinates": [
+            {
+                "text": "the",
+                "coords": [
+                    [
+                        558,
+                        1191
+                    ],
+                    [
+                        579,
+                        1190
+                    ],
+                    [
+                        580,
+                        1201
+                    ],
+                    [
+                        559,
+                        1202
+                    ]
+                ]
+            },
+            {
+                "text": "s",
+                "coords": [
+                    [
+                        591,
+                        1190
+                    ],
+                    [
+                        599,
+                        1190
+                    ],
+                    [
+                        599,
+                        1200
+                    ],
+                    [
+                        591,
+                        1200
+                    ]
+                ]
+            },
+            {
+                "text": "Y",
+                "coords": [
+                    [
+                        563,
+                        1206
+                    ],
+                    [
+                        569,
+                        1206
+                    ],
+                    [
+                        569,
+                        1214
+                    ],
+                    [
+                        563,
+                        1214
+                    ]
+                ]
+            },
+            {
+                "text": "CORNE",
+                "coords": [
+                    [
+                        569,
+                        1205
+                    ],
+                    [
+                        594,
+                        1204
+                    ],
+                    [
+                        594,
+                        1213
+                    ],
+                    [
+                        569,
+                        1214
+                    ]
+                ]
+            },
+            {
+                "text": "SHEAFE",
+                "coords": [
+                    [
+                        439,
+                        1344
+                    ],
+                    [
+                        491,
+                        1346
+                    ],
+                    [
+                        490,
+                        1365
+                    ],
+                    [
+                        438,
+                        1363
+                    ]
+                ]
+            },
+            {
+                "text": "ST",
+                "coords": [
+                    [
+                        492,
+                        1347
+                    ],
+                    [
+                        505,
+                        1348
+                    ],
+                    [
+                        504,
+                        1366
+                    ],
+                    [
+                        491,
+                        1365
+                    ]
+                ]
+            },
+            {
+                "text": "NATALE",
+                "coords": [
+                    [
+                        519,
+                        1324
+                    ],
+                    [
+                        546,
+                        1320
+                    ],
+                    [
+                        548,
+                        1332
+                    ],
+                    [
+                        521,
+                        1336
+                    ]
+                ]
+            },
+            {
+                "text": "SALEM",
+                "coords": [
+                    [
+                        529,
+                        1366
+                    ],
+                    [
+                        554,
+                        1374
+                    ],
+                    [
+                        549,
+                        1388
+                    ],
+                    [
+                        524,
+                        1380
+                    ]
+                ]
+            },
+            {
+                "text": "MAY",
+                "coords": [
+                    [
+                        757,
+                        1451
+                    ],
+                    [
+                        783,
+                        1451
+                    ],
+                    [
+                        783,
+                        1460
+                    ],
+                    [
+                        757,
+                        1460
+                    ]
+                ]
+            },
+            {
+                "text": "USE",
+                "coords": [
+                    [
+                        788,
+                        1451
+                    ],
+                    [
+                        811,
+                        1451
+                    ],
+                    [
+                        811,
+                        1460
+                    ],
+                    [
+                        788,
+                        1460
+                    ]
+                ]
+            },
+            {
+                "text": "FULL",
+                "coords": [
+                    [
+                        756,
+                        1466
+                    ],
+                    [
+                        781,
+                        1465
+                    ],
+                    [
+                        781,
+                        1476
+                    ],
+                    [
+                        756,
+                        1477
+                    ]
+                ]
+            },
+            {
+                "text": "LANE",
+                "coords": [
+                    [
+                        785,
+                        1465
+                    ],
+                    [
+                        811,
+                        1464
+                    ],
+                    [
+                        811,
+                        1475
+                    ],
+                    [
+                        785,
+                        1476
+                    ]
+                ]
+            },
+            {
+                "text": "wund",
+                "coords": [
+                    [
+                        915,
+                        1708
+                    ],
+                    [
+                        936,
+                        1709
+                    ],
+                    [
+                        936,
+                        1714
+                    ],
+                    [
+                        915,
+                        1713
+                    ]
+                ]
+            },
+            {
+                "text": "H",
+                "coords": [
+                    [
+                        919,
+                        1759
+                    ],
+                    [
+                        931,
+                        1760
+                    ],
+                    [
+                        930,
+                        1769
+                    ],
+                    [
+                        919,
+                        1768
+                    ]
+                ]
+            },
+            {
+                "text": "664",
+                "coords": [
+                    [
+                        990,
+                        1757
+                    ],
+                    [
+                        1018,
+                        1759
+                    ],
+                    [
+                        1017,
+                        1776
+                    ],
+                    [
+                        989,
+                        1774
+                    ]
+                ]
+            },
+            {
+                "text": "TY7",
+                "coords": [
+                    [
+                        1020,
+                        1759
+                    ],
+                    [
+                        1048,
+                        1761
+                    ],
+                    [
+                        1047,
+                        1778
+                    ],
+                    [
+                        1019,
+                        1776
+                    ]
+                ]
+            },
+            {
+                "text": "VII",
+                "coords": [
+                    [
+                        1511,
+                        753
+                    ],
+                    [
+                        1485,
+                        721
+                    ],
+                    [
+                        1509,
+                        702
+                    ],
+                    [
+                        1535,
+                        734
+                    ]
+                ]
+            },
+            {
+                "text": "VIII",
+                "coords": [
+                    [
+                        1481,
+                        717
+                    ],
+                    [
+                        1457,
+                        687
+                    ],
+                    [
+                        1481,
+                        667
+                    ],
+                    [
+                        1506,
+                        697
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "Data\\Stripped\\IMG_4968.JPEG",
+        "landmarks": [
+            {
+                "name": "Public Garden",
+                "latitude": 42.354620399999995,
+                "longitude": -71.070785,
+                "confidence": 0.3330814838409424
+            },
+            {
+                "name": "Starbucks",
+                "latitude": 42.351483099999996,
+                "longitude": -71.0729965,
+                "confidence": 0.3329544961452484
+            },
+            {
+                "name": "501 Boylston",
+                "latitude": 42.351028,
+                "longitude": -71.074505,
+                "confidence": 0.306066632270813
+            },
+            {
+                "name": "Tatte Bakery & Cafe",
+                "latitude": 42.35175830000001,
+                "longitude": -71.0719028,
+                "confidence": 0.26135531067848206
+            }
+        ],
+        "labels": [
+            {
+                "label": "Sky",
+                "score": 0.9739706516265869
+            },
+            {
+                "label": "Building",
+                "score": 0.9483815431594849
+            },
+            {
+                "label": "Tower",
+                "score": 0.844764232635498
+            },
+            {
+                "label": "Cloud",
+                "score": 0.8429118990898132
+            },
+            {
+                "label": "Street light",
+                "score": 0.8107646703720093
+            },
+            {
+                "label": "Tire",
+                "score": 0.8075762391090393
+            },
+            {
+                "label": "Facade",
+                "score": 0.7738867402076721
+            },
+            {
+                "label": "City",
+                "score": 0.7574784159660339
+            },
+            {
+                "label": "Metropolis",
+                "score": 0.7391310930252075
+            },
+            {
+                "label": "Tree",
+                "score": 0.7357914447784424
+            }
+        ],
+        "web_entities": [
+            {
+                "entity": "Medieval architecture",
+                "score": 0.5934284925460815
+            },
+            {
+                "entity": "Car",
+                "score": 0.5361000299453735
+            },
+            {
+                "entity": "Architecture",
+                "score": 0.5260999798774719
+            },
+            {
+                "entity": "Tourism",
+                "score": 0.5120000243186951
+            },
+            {
+                "entity": "Steeple",
+                "score": 0.4870624840259552
+            },
+            {
+                "entity": "Classical architecture",
+                "score": 0.4719860851764679
+            },
+            {
+                "entity": "Skyscraper",
+                "score": 0.44993337988853455
+            },
+            {
+                "entity": "Listed building",
+                "score": 0.441586971282959
+            },
+            {
+                "entity": "Gothic architecture",
+                "score": 0.422481894493103
+            },
+            {
+                "entity": "Monument",
+                "score": 0.4200599193572998
+            }
+        ],
+        "dominant_colors": [
+            {
+                "red": 39.0,
+                "green": 54.0,
+                "blue": 81.0,
+                "score": 0.48860010504722595,
+                "pixel_fraction": 0.08772861212491989
+            },
+            {
+                "red": 149.0,
+                "green": 189.0,
+                "blue": 235.0,
+                "score": 0.15180285274982452,
+                "pixel_fraction": 0.2822418808937073
+            },
+            {
+                "red": 168.0,
+                "green": 203.0,
+                "blue": 239.0,
+                "score": 0.14756722748279572,
+                "pixel_fraction": 0.18690265715122223
+            },
+            {
+                "red": 45.0,
+                "green": 59.0,
+                "blue": 38.0,
+                "score": 0.0008620850276201963,
+                "pixel_fraction": 0.002654867246747017
+            },
+            {
+                "red": 58.0,
+                "green": 75.0,
+                "blue": 106.0,
+                "score": 0.06869883090257645,
+                "pixel_fraction": 0.02176991105079651
+            }
+        ],
+        "safe_search": {
+            "adult": "VERY_UNLIKELY",
+            "medical": "VERY_UNLIKELY",
+            "spoofed": "VERY_UNLIKELY",
+            "violence": "VERY_UNLIKELY",
+            "racy": "VERY_UNLIKELY"
+        },
+        "objects": [
+            {
+                "name": "Car",
+                "score": 0.5433571338653564,
+                "bounding_poly": [
+                    {
+                        "x": 0.40234375,
+                        "y": 0.93359375
+                    },
+                    {
+                        "x": 0.55859375,
+                        "y": 0.93359375
+                    },
+                    {
+                        "x": 0.55859375,
+                        "y": 0.99609375
+                    },
+                    {
+                        "x": 0.40234375,
+                        "y": 0.99609375
+                    }
+                ]
+            },
+            {
+                "name": "Car",
+                "score": 0.5176734328269958,
+                "bounding_poly": [
+                    {
+                        "x": 0.6484375,
+                        "y": 0.94921875
+                    },
+                    {
+                        "x": 0.82421875,
+                        "y": 0.94921875
+                    },
+                    {
+                        "x": 0.82421875,
+                        "y": 0.99609375
+                    },
+                    {
+                        "x": 0.6484375,
+                        "y": 0.99609375
+                    }
+                ]
+            }
+        ],
+        "location": {
+            "lat": 42.354620399999995,
+            "lng": -71.070785
+        },
+        "text_coordinates": [
+            {
+                "text": "TOW",
+                "coords": [
+                    [
+                        1169,
+                        1584
+                    ],
+                    [
+                        1194,
+                        1582
+                    ],
+                    [
+                        1195,
+                        1600
+                    ],
+                    [
+                        1170,
+                        1602
+                    ]
+                ]
+            },
+            {
+                "text": "ZONE",
+                "coords": [
+                    [
+                        1197,
+                        1582
+                    ],
+                    [
+                        1227,
+                        1580
+                    ],
+                    [
+                        1228,
+                        1598
+                    ],
+                    [
+                        1198,
+                        1600
+                    ]
+                ]
+            },
+            {
+                "text": "RESERVED",
+                "coords": [
+                    [
+                        1175,
+                        1636
+                    ],
+                    [
+                        1214,
+                        1633
+                    ],
+                    [
+                        1215,
+                        1643
+                    ],
+                    [
+                        1176,
+                        1646
+                    ]
+                ]
+            },
+            {
+                "text": "FOR",
+                "coords": [
+                    [
+                        1216,
+                        1633
+                    ],
+                    [
+                        1231,
+                        1632
+                    ],
+                    [
+                        1232,
+                        1642
+                    ],
+                    [
+                        1217,
+                        1643
+                    ]
+                ]
+            },
+            {
+                "text": "CAR",
+                "coords": [
+                    [
+                        1177,
+                        1647
+                    ],
+                    [
+                        1197,
+                        1645
+                    ],
+                    [
+                        1198,
+                        1656
+                    ],
+                    [
+                        1178,
+                        1658
+                    ]
+                ]
+            },
+            {
+                "text": "SHARE",
+                "coords": [
+                    [
+                        1201,
+                        1645
+                    ],
+                    [
+                        1231,
+                        1642
+                    ],
+                    [
+                        1232,
+                        1653
+                    ],
+                    [
+                        1202,
+                        1656
+                    ]
+                ]
+            },
+            {
+                "text": "VEHICLES",
+                "coords": [
+                    [
+                        1183,
+                        1658
+                    ],
+                    [
+                        1228,
+                        1655
+                    ],
+                    [
+                        1228,
+                        1665
+                    ],
+                    [
+                        1184,
+                        1668
+                    ]
+                ]
+            },
+            {
+                "text": "zipcr",
+                "coords": [
+                    [
+                        1192,
+                        1704
+                    ],
+                    [
+                        1220,
+                        1703
+                    ],
+                    [
+                        1221,
+                        1714
+                    ],
+                    [
+                        1193,
+                        1715
+                    ]
+                ]
+            },
+            {
+                "text": "ONLY",
+                "coords": [
+                    [
+                        1220,
+                        1703
+                    ],
+                    [
+                        1240,
+                        1702
+                    ],
+                    [
+                        1240,
+                        1712
+                    ],
+                    [
+                        1221,
+                        1713
+                    ]
+                ]
+            },
+            {
+                "text": "CAR",
+                "coords": [
+                    [
+                        1182,
+                        1716
+                    ],
+                    [
+                        1194,
+                        1716
+                    ],
+                    [
+                        1194,
+                        1725
+                    ],
+                    [
+                        1182,
+                        1725
+                    ]
+                ]
+            },
+            {
+                "text": "SHARE",
+                "coords": [
+                    [
+                        1195,
+                        1716
+                    ],
+                    [
+                        1219,
+                        1715
+                    ],
+                    [
+                        1219,
+                        1724
+                    ],
+                    [
+                        1195,
+                        1725
+                    ]
+                ]
+            },
+            {
+                "text": "STO",
+                "coords": [
+                    [
+                        1225,
+                        1715
+                    ],
+                    [
+                        1239,
+                        1715
+                    ],
+                    [
+                        1239,
+                        1723
+                    ],
+                    [
+                        1225,
+                        1723
+                    ]
+                ]
+            },
+            {
+                "text": "TOW",
+                "coords": [
+                    [
+                        1190,
+                        1755
+                    ],
+                    [
+                        1213,
+                        1754
+                    ],
+                    [
+                        1214,
+                        1769
+                    ],
+                    [
+                        1191,
+                        1770
+                    ]
+                ]
+            },
+            {
+                "text": "ZONE",
+                "coords": [
+                    [
+                        1216,
+                        1753
+                    ],
+                    [
+                        1246,
+                        1751
+                    ],
+                    [
+                        1247,
+                        1766
+                    ],
+                    [
+                        1217,
+                        1768
+                    ]
+                ]
+            },
+            {
+                "text": "NO",
+                "coords": [
+                    [
+                        1209,
+                        1781
+                    ],
+                    [
+                        1233,
+                        1780
+                    ],
+                    [
+                        1234,
+                        1793
+                    ],
+                    [
+                        1210,
+                        1794
+                    ]
+                ]
+            },
+            {
+                "text": "STOPPING",
+                "coords": [
+                    [
+                        1195,
+                        1797
+                    ],
+                    [
+                        1250,
+                        1794
+                    ],
+                    [
+                        1251,
+                        1807
+                    ],
+                    [
+                        1196,
+                        1810
+                    ]
+                ]
+            },
+            {
+                "text": "ONE",
+                "coords": [
+                    [
+                        1436,
+                        1726
+                    ],
+                    [
+                        1452,
+                        1726
+                    ],
+                    [
+                        1452,
+                        1735
+                    ],
+                    [
+                        1436,
+                        1735
+                    ]
+                ]
+            },
+            {
+                "text": "WAY",
+                "coords": [
+                    [
+                        1458,
+                        1726
+                    ],
+                    [
+                        1477,
+                        1726
+                    ],
+                    [
+                        1477,
+                        1734
+                    ],
+                    [
+                        1458,
+                        1734
+                    ]
+                ]
+            },
+            {
+                "text": "NO",
+                "coords": [
+                    [
+                        1342,
+                        1794
+                    ],
+                    [
+                        1354,
+                        1792
+                    ],
+                    [
+                        1355,
+                        1799
+                    ],
+                    [
+                        1343,
+                        1801
+                    ]
+                ]
+            },
+            {
+                "text": "METER",
+                "coords": [
+                    [
+                        1452,
+                        1787
+                    ],
+                    [
+                        1476,
+                        1786
+                    ],
+                    [
+                        1476,
+                        1795
+                    ],
+                    [
+                        1452,
+                        1796
+                    ]
+                ]
+            },
+            {
+                "text": "ANY",
+                "coords": [
+                    [
+                        1212,
+                        1813
+                    ],
+                    [
+                        1236,
+                        1812
+                    ],
+                    [
+                        1236,
+                        1823
+                    ],
+                    [
+                        1212,
+                        1824
+                    ]
+                ]
+            },
+            {
+                "text": "TIME",
+                "coords": [
+                    [
+                        1213,
+                        1825
+                    ],
+                    [
+                        1240,
+                        1828
+                    ],
+                    [
+                        1238,
+                        1841
+                    ],
+                    [
+                        1212,
+                        1838
+                    ]
+                ]
+            },
+            {
+                "text": "-",
+                "coords": [
+                    [
+                        1349,
+                        1832
+                    ],
+                    [
+                        1361,
+                        1831
+                    ],
+                    [
+                        1361,
+                        1838
+                    ],
+                    [
+                        1350,
+                        1839
+                    ]
+                ]
+            },
+            {
+                "text": ">",
+                "coords": [
+                    [
+                        1349,
+                        1833
+                    ],
+                    [
+                        1363,
+                        1832
+                    ],
+                    [
+                        1363,
+                        1839
+                    ],
+                    [
+                        1350,
+                        1840
+                    ]
+                ]
+            }
+        ]
+    }
+]
