@@ -1,0 +1,201 @@
+{
+    "filename": "Data\\Stripped\\IMG_0615 (1).JPEG",
+    "landmarks": [],
+    "labels": [
+        {
+            "label": "Sky",
+            "score": 0.9674600958824158
+        },
+        {
+            "label": "Atmosphere",
+            "score": 0.9481807947158813
+        },
+        {
+            "label": "Flash photography",
+            "score": 0.8663039803504944
+        },
+        {
+            "label": "Tree",
+            "score": 0.8566558361053467
+        },
+        {
+            "label": "Automotive lighting",
+            "score": 0.817984402179718
+        },
+        {
+            "label": "Gas",
+            "score": 0.7807359099388123
+        },
+        {
+            "label": "Tints and shades",
+            "score": 0.7737511992454529
+        },
+        {
+            "label": "Landscape",
+            "score": 0.7681248188018799
+        },
+        {
+            "label": "Heat",
+            "score": 0.752749502658844
+        },
+        {
+            "label": "Hat",
+            "score": 0.7037810683250427
+        }
+    ],
+    "web_entities": [
+        {
+            "entity": "Photography",
+            "score": 0.5156000256538391
+        },
+        {
+            "entity": "M-027",
+            "score": 0.5051000118255615
+        },
+        {
+            "entity": "Lens flare",
+            "score": 0.46506762504577637
+        },
+        {
+            "entity": "Road",
+            "score": 0.4490622580051422
+        },
+        {
+            "entity": "Still life photography",
+            "score": 0.4390393793582916
+        },
+        {
+            "entity": "Celestial Object",
+            "score": 0.4023912250995636
+        },
+        {
+            "entity": "Street light",
+            "score": 0.38901716470718384
+        },
+        {
+            "entity": "Still life",
+            "score": 0.38839998841285706
+        },
+        {
+            "entity": "Lens",
+            "score": 0.3709999918937683
+        },
+        {
+            "entity": "Flash",
+            "score": 0.35409998893737793
+        }
+    ],
+    "dominant_colors": [
+        {
+            "red": 159.0,
+            "green": 154.0,
+            "blue": 143.0,
+            "score": 0.27546945214271545,
+            "pixel_fraction": 0.11769911646842957
+        },
+        {
+            "red": 191.0,
+            "green": 186.0,
+            "blue": 166.0,
+            "score": 0.22297273576259613,
+            "pixel_fraction": 0.05669616535305977
+        },
+        {
+            "red": 114.0,
+            "green": 73.0,
+            "blue": 31.0,
+            "score": 0.02764541655778885,
+            "pixel_fraction": 0.014218289405107498
+        },
+        {
+            "red": 77.0,
+            "green": 43.0,
+            "blue": 20.0,
+            "score": 0.021390393376350403,
+            "pixel_fraction": 0.02294985204935074
+        },
+        {
+            "red": 27.0,
+            "green": 15.0,
+            "blue": 8.0,
+            "score": 0.0065430947579443455,
+            "pixel_fraction": 0.22477875649929047
+        }
+    ],
+    "safe_search": {
+        "adult": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "spoofed": "VERY_UNLIKELY",
+        "violence": "UNLIKELY",
+        "racy": "VERY_UNLIKELY"
+    },
+    "objects": [
+        {
+            "name": "Clothing",
+            "score": 0.7770231366157532,
+            "bounding_poly": [
+                {
+                    "x": 0.6015625,
+                    "y": 0.7109375
+                },
+                {
+                    "x": 0.671875,
+                    "y": 0.7109375
+                },
+                {
+                    "x": 0.671875,
+                    "y": 0.83984375
+                },
+                {
+                    "x": 0.6015625,
+                    "y": 0.83984375
+                }
+            ]
+        },
+        {
+            "name": "Person",
+            "score": 0.7398520112037659,
+            "bounding_poly": [
+                {
+                    "x": 0.58984375,
+                    "y": 0.67578125
+                },
+                {
+                    "x": 0.68359375,
+                    "y": 0.67578125
+                },
+                {
+                    "x": 0.68359375,
+                    "y": 0.88671875
+                },
+                {
+                    "x": 0.58984375,
+                    "y": 0.88671875
+                }
+            ]
+        },
+        {
+            "name": "Person",
+            "score": 0.6841721534729004,
+            "bounding_poly": [
+                {
+                    "x": 0.4296875,
+                    "y": 0.4609375
+                },
+                {
+                    "x": 0.48046875,
+                    "y": 0.4609375
+                },
+                {
+                    "x": 0.48046875,
+                    "y": 0.56640625
+                },
+                {
+                    "x": 0.4296875,
+                    "y": 0.56640625
+                }
+            ]
+        }
+    ],
+    "text_coordinates": []
+}
