@@ -1,6 +1,6 @@
 [
     {
-        "filename": "Data\\Original\\DSCN0010.jpg",
+        "filename": "Data\\Stripped\\DSCN0010.jpg",
         "landmarks": [
             {
                 "name": "Guindy National Park",
@@ -53,44 +53,44 @@
         ],
         "web_entities": [
             {
-                "entity": "Black rat",
-                "score": 0.6686999797821045
+                "entity": "M-049",
+                "score": 0.49729999899864197
             },
             {
-                "entity": "House",
-                "score": 0.34998130798339844
+                "entity": "Rural area",
+                "score": 0.3915889859199524
             },
             {
-                "entity": "",
-                "score": 0.30869999527931213
+                "entity": "Farmhouse",
+                "score": 0.36292600631713867
             },
             {
-                "entity": "Data",
-                "score": 0.2874000072479248
-            },
-            {
-                "entity": "connect",
-                "score": 0.2786000072956085
-            },
-            {
-                "entity": "Building",
-                "score": 0.2694000005722046
-            },
-            {
-                "entity": "just",
-                "score": 0.2655999958515167
-            },
-            {
-                "entity": "check",
-                "score": 0.25459998846054077
+                "entity": "Estate",
+                "score": 0.34724161028862
             },
             {
                 "entity": "Roof",
-                "score": 0.2524445354938507
+                "score": 0.3383243978023529
             },
             {
-                "entity": "Economy",
-                "score": 0.2387000024318695
+                "entity": "Shrubland",
+                "score": 0.3314143419265747
+            },
+            {
+                "entity": "Cottage M",
+                "score": 0.3248000144958496
+            },
+            {
+                "entity": "Village-m",
+                "score": 0.3190999925136566
+            },
+            {
+                "entity": "Hedge",
+                "score": 0.311471164226532
+            },
+            {
+                "entity": "Tree",
+                "score": 0.3108927309513092
             }
         ],
         "dominant_colors": [
@@ -187,14 +187,10 @@
             "lat": 13.0049251,
             "lng": 80.2378725
         },
-        "text_coordinates": [],
-        "gps_location": {
-            "latitude": 43.46744833333334,
-            "longitude": 11.885126666663888
-        }
+        "text_coordinates": []
     },
     {
-        "filename": "Data\\Original\\DSCN0012.jpg",
+        "filename": "Data\\Stripped\\DSCN0012.jpg",
         "landmarks": [],
         "labels": [
             {
@@ -240,44 +236,44 @@
         ],
         "web_entities": [
             {
-                "entity": "other",
-                "score": 0.30239999294281006
-            },
-            {
-                "entity": "Mumbil",
-                "score": 0.28575000166893005
-            },
-            {
-                "entity": "Data",
-                "score": 0.2825999855995178
-            },
-            {
-                "entity": "solved",
-                "score": 0.2644999921321869
+                "entity": "Damaksnis",
+                "score": 0.6650999784469604
             },
             {
                 "entity": "/m/083vt",
-                "score": 0.25999999046325684
+                "score": 0.5123000144958496
             },
             {
-                "entity": "create",
-                "score": 0.24879999458789825
+                "entity": "Temperate broadleaf and mixed forests",
+                "score": 0.40310463309288025
             },
             {
-                "entity": "current",
-                "score": 0.23639999330043793
+                "entity": "People and Nature",
+                "score": 0.4000000059604645
             },
             {
-                "entity": "succeeding",
-                "score": 0.21870000660419464
+                "entity": "Dirt road",
+                "score": 0.3760364353656769
             },
             {
-                "entity": "easy",
-                "score": 0.210999995470047
+                "entity": "Road",
+                "score": 0.3693999946117401
             },
             {
-                "entity": "check",
-                "score": 0.21060000360012054
+                "entity": "Trail",
+                "score": 0.3289835453033447
+            },
+            {
+                "entity": "Forest",
+                "score": 0.32739999890327454
+            },
+            {
+                "entity": "Autumn",
+                "score": 0.323549747467041
+            },
+            {
+                "entity": "Northern hardwood forest",
+                "score": 0.31718775629997253
             }
         ],
         "dominant_colors": [
@@ -325,14 +321,10 @@
             "racy": "VERY_UNLIKELY"
         },
         "objects": [],
-        "text_coordinates": [],
-        "gps_location": {
-            "latitude": 43.46715666666389,
-            "longitude": 11.885394999997223
-        }
+        "text_coordinates": []
     },
     {
-        "filename": "Data\\Original\\DSCN0021.jpg",
+        "filename": "Data\\Stripped\\DSCN0021.jpg",
         "landmarks": [
             {
                 "name": "Monument Of Francesco Petrarca",
@@ -385,44 +377,44 @@
         ],
         "web_entities": [
             {
-                "entity": "Photograph",
-                "score": 0.357699990272522
-            },
-            {
-                "entity": "Wallpaper",
-                "score": 0.3296000063419342
+                "entity": "Bug bounty program",
+                "score": 0.3846000134944916
             },
             {
                 "entity": "",
-                "score": 0.314300000667572
-            },
-            {
-                "entity": "Wallpaper",
-                "score": 0.2964000105857849
-            },
-            {
-                "entity": "Art",
-                "score": 0.29190000891685486
-            },
-            {
-                "entity": "used",
-                "score": 0.28999999165534973
-            },
-            {
-                "entity": "/m/083vt",
-                "score": 0.2879999876022339
+                "score": 0.3091000020503998
             },
             {
                 "entity": "other",
-                "score": 0.28700000047683716
+                "score": 0.2874000072479248
             },
             {
                 "entity": "connect",
-                "score": 0.2782999873161316
+                "score": 0.275299996137619
             },
             {
-                "entity": "Animation",
-                "score": 0.23829999566078186
+                "entity": "/m/083vt",
+                "score": 0.2635999917984009
+            },
+            {
+                "entity": "available",
+                "score": 0.2526000142097473
+            },
+            {
+                "entity": "used",
+                "score": 0.2485000044107437
+            },
+            {
+                "entity": "Vulnerability",
+                "score": 0.24740000069141388
+            },
+            {
+                "entity": "Image",
+                "score": 0.24300000071525574
+            },
+            {
+                "entity": "Bugcrowd",
+                "score": 0.23250000178813934
             }
         ],
         "dominant_colors": [
@@ -497,14 +489,10 @@
             "lat": 43.4663944,
             "lng": 11.8852009
         },
-        "text_coordinates": [],
-        "gps_location": {
-            "latitude": 43.467081666663894,
-            "longitude": 11.884538333330555
-        }
+        "text_coordinates": []
     },
     {
-        "filename": "Data\\Original\\DSCN0025.jpg",
+        "filename": "Data\\Stripped\\DSCN0025.jpg",
         "landmarks": [],
         "labels": [
             {
@@ -550,44 +538,44 @@
         ],
         "web_entities": [
             {
-                "entity": "Exif",
-                "score": 0.9697999954223633
+                "entity": "Middle Ages",
+                "score": 0.49650001525878906
             },
             {
-                "entity": "Photograph",
-                "score": 0.4823000133037567
+                "entity": "Tourism",
+                "score": 0.44369998574256897
             },
             {
-                "entity": "Privacy",
-                "score": 0.3959999978542328
+                "entity": "Medieval architecture",
+                "score": 0.4334678053855896
             },
             {
-                "entity": "Data",
-                "score": 0.39259999990463257
+                "entity": "Architecture",
+                "score": 0.4101000130176544
             },
             {
-                "entity": "Image",
-                "score": 0.392300009727478
+                "entity": "Concrete",
+                "score": 0.3796190321445465
             },
             {
-                "entity": "capable",
-                "score": 0.3686000108718872
+                "entity": "Pedestrian",
+                "score": 0.374449759721756
             },
             {
-                "entity": "Privacy policy",
-                "score": 0.36070001125335693
+                "entity": "Sidewalk",
+                "score": 0.36511626839637756
             },
             {
-                "entity": "Metadata",
-                "score": 0.35359999537467957
+                "entity": "Village-m",
+                "score": 0.3319999873638153
             },
             {
-                "entity": "check",
-                "score": 0.27720001339912415
+                "entity": "House",
+                "score": 0.3197454512119293
             },
             {
-                "entity": "Photo Exif Data Viewer",
-                "score": 0.271699994802475
+                "entity": "",
+                "score": 0.3174999952316284
             }
         ],
         "dominant_colors": [
@@ -790,14 +778,10 @@
                 ]
             }
         ],
-        "text_coordinates": [],
-        "gps_location": {
-            "latitude": 43.468365,
-            "longitude": 11.881634999972222
-        }
+        "text_coordinates": []
     },
     {
-        "filename": "Data\\Original\\DSCN0027.jpg",
+        "filename": "Data\\Stripped\\DSCN0027.jpg",
         "landmarks": [
             {
                 "name": "Casa Vasari",
@@ -857,31 +841,35 @@
         "web_entities": [
             {
                 "entity": "Middle Ages",
-                "score": 0.5145000219345093
+                "score": 0.5117999911308289
             },
             {
                 "entity": "Window",
-                "score": 0.5021017789840698
-            },
-            {
-                "entity": "Historic site",
-                "score": 0.4821658730506897
+                "score": 0.5035819411277771
             },
             {
                 "entity": "Medieval architecture",
-                "score": 0.456153005361557
+                "score": 0.4544389545917511
+            },
+            {
+                "entity": "Historic site",
+                "score": 0.4434441030025482
             },
             {
                 "entity": "Hacienda M",
-                "score": 0.41780000925064087
+                "score": 0.41819998621940613
             },
             {
                 "entity": "Architecture",
-                "score": 0.41769999265670776
+                "score": 0.41690000891685486
+            },
+            {
+                "entity": "Street",
+                "score": 0.3547833561897278
             },
             {
                 "entity": "House",
-                "score": 0.35113200545310974
+                "score": 0.34992536902427673
             },
             {
                 "entity": "Castle",
@@ -889,11 +877,7 @@
             },
             {
                 "entity": "Arch",
-                "score": 0.3348585367202759
-            },
-            {
-                "entity": "Village-m",
-                "score": 0.33000001311302185
+                "score": 0.33796802163124084
             }
         ],
         "dominant_colors": [
@@ -968,14 +952,10 @@
             "lat": 43.468944500000006,
             "lng": 11.8802385
         },
-        "text_coordinates": [],
-        "gps_location": {
-            "latitude": 43.46844166666667,
-            "longitude": 11.881515
-        }
+        "text_coordinates": []
     },
     {
-        "filename": "Data\\Original\\DSCN0029.jpg",
+        "filename": "Data\\Stripped\\DSCN0029.jpg",
         "landmarks": [
             {
                 "name": "Uffizi Gallery",
@@ -1046,44 +1026,44 @@
         ],
         "web_entities": [
             {
-                "entity": "Wyndham Danang Golden Bay",
-                "score": 0.5597000122070312
-            },
-            {
-                "entity": "Danang International Airport",
-                "score": 0.5138100385665894
-            },
-            {
                 "entity": "Car",
-                "score": 0.43320000171661377
+                "score": 0.5333999991416931
             },
             {
-                "entity": "Hotel",
-                "score": 0.4309000074863434
-            },
-            {
-                "entity": "Tourism",
-                "score": 0.3953000009059906
+                "entity": "Ga h\u00e0ng ho\u00e1 - c\u1ea3ng h\u00e0ng kh\u00f4ng qu\u1ed1c t\u1ebf Ph\u00fa B\u00e0i",
+                "score": 0.46574997901916504
             },
             {
                 "entity": "Image",
-                "score": 0.34929999709129333
+                "score": 0.40299999713897705
             },
             {
-                "entity": "Da Nang Villa",
-                "score": 0.3190000057220459
+                "entity": "Tourism",
+                "score": 0.3384000062942505
             },
             {
-                "entity": "Vacation",
-                "score": 0.306012362241745
+                "entity": "Hotel",
+                "score": 0.30809998512268066
             },
             {
                 "entity": "Car rental",
-                "score": 0.2937000095844269
+                "score": 0.29089999198913574
             },
             {
-                "entity": "Tripadvisor",
-                "score": 0.289900004863739
+                "entity": "Villa",
+                "score": 0.2709999978542328
+            },
+            {
+                "entity": "The Ocean Villas",
+                "score": 0.2701600193977356
+            },
+            {
+                "entity": "House",
+                "score": 0.256790429353714
+            },
+            {
+                "entity": "Photograph",
+                "score": 0.251800000667572
             }
         ],
         "dominant_colors": [
@@ -1290,14 +1270,10 @@
                     ]
                 ]
             }
-        ],
-        "gps_location": {
-            "latitude": 43.468243333330555,
-            "longitude": 11.880171666638889
-        }
+        ]
     },
     {
-        "filename": "Data\\Original\\DSCN0038.jpg",
+        "filename": "Data\\Stripped\\DSCN0038.jpg",
         "landmarks": [],
         "labels": [
             {
@@ -1344,43 +1320,43 @@
         "web_entities": [
             {
                 "entity": "File Downloader",
-                "score": 0.6176000237464905
+                "score": 0.6079000234603882
             },
             {
                 "entity": "/m/083vt",
-                "score": 0.49720001220703125
-            },
-            {
-                "entity": "WebP",
-                "score": 0.43369999527931213
-            },
-            {
-                "entity": "Download",
-                "score": 0.42890000343322754
-            },
-            {
-                "entity": "House",
-                "score": 0.4237677752971649
+                "score": 0.5194000005722046
             },
             {
                 "entity": "JPEG",
-                "score": 0.4133000075817108
+                "score": 0.46230000257492065
             },
             {
-                "entity": "Medieval architecture",
-                "score": 0.3968985378742218
+                "entity": "Window",
+                "score": 0.45431122183799744
             },
             {
-                "entity": "SVG",
-                "score": 0.3903999924659729
+                "entity": "House",
+                "score": 0.4353838562965393
+            },
+            {
+                "entity": "Exif",
+                "score": 0.4162999987602234
+            },
+            {
+                "entity": "Portable Network Graphics",
+                "score": 0.40689998865127563
             },
             {
                 "entity": "Architecture",
-                "score": 0.38960000872612
+                "score": 0.40389999747276306
             },
             {
                 "entity": "Tree",
-                "score": 0.3812371492385864
+                "score": 0.37187379598617554
+            },
+            {
+                "entity": "Medieval architecture",
+                "score": 0.35730499029159546
             }
         ],
         "dominant_colors": [
@@ -1495,14 +1471,10 @@
                 ]
             }
         ],
-        "text_coordinates": [],
-        "gps_location": {
-            "latitude": 43.46725499999722,
-            "longitude": 11.879213333333334
-        }
+        "text_coordinates": []
     },
     {
-        "filename": "Data\\Original\\DSCN0040.jpg",
+        "filename": "Data\\Stripped\\DSCN0040.jpg",
         "landmarks": [],
         "labels": [
             {
@@ -1549,43 +1521,43 @@
         "web_entities": [
             {
                 "entity": "Piazza della Badia",
-                "score": 1.0715099573135376
+                "score": 0.7430499792098999
             },
             {
                 "entity": "GIF",
-                "score": 0.2678000032901764
+                "score": 0.7021999955177307
             },
             {
                 "entity": "GIF Keyboard",
-                "score": 0.2646999955177307
+                "score": 0.5249000191688538
             },
             {
                 "entity": "GoGoFirenze",
-                "score": 0.25290000438690186
+                "score": 0.43880000710487366
             },
             {
                 "entity": "Architecture",
-                "score": 0.25189998745918274
+                "score": 0.28859999775886536
             },
             {
                 "entity": "Tenor",
-                "score": 0.21690000593662262
-            },
-            {
-                "entity": "Town square",
-                "score": 0.21503688395023346
-            },
-            {
-                "entity": "Medieval architecture",
-                "score": 0.21322442591190338
+                "score": 0.27720001339912415
             },
             {
                 "entity": "Exif",
-                "score": 0.19979999959468842
+                "score": 0.2502000033855438
             },
             {
-                "entity": "Open-source intelligence",
-                "score": 0.19869999587535858
+                "entity": "bad",
+                "score": 0.21410000324249268
+            },
+            {
+                "entity": "Location",
+                "score": 0.2013999968767166
+            },
+            {
+                "entity": "Classical architecture",
+                "score": 0.20046380162239075
             }
         ],
         "dominant_colors": [
@@ -1722,14 +1694,10 @@
                 ]
             }
         ],
-        "text_coordinates": [],
-        "gps_location": {
-            "latitude": 43.46601166663889,
-            "longitude": 11.87911166663889
-        }
+        "text_coordinates": []
     },
     {
-        "filename": "Data\\Original\\DSCN0042.jpg",
+        "filename": "Data\\Stripped\\DSCN0042.jpg",
         "landmarks": [],
         "labels": [
             {
@@ -1775,44 +1743,44 @@
         ],
         "web_entities": [
             {
-                "entity": "Document",
-                "score": 0.5449000000953674
+                "entity": "/m/083vt",
+                "score": 0.5123000144958496
             },
             {
-                "entity": "Information",
-                "score": 0.5365999937057495
+                "entity": "Middle Ages",
+                "score": 0.4791000187397003
             },
             {
-                "entity": "Metadata",
-                "score": 0.534600019454956
+                "entity": "Medieval architecture",
+                "score": 0.42621755599975586
             },
             {
-                "entity": "Documentation",
-                "score": 0.5188999772071838
+                "entity": "Architecture",
+                "score": 0.4052000045776367
             },
             {
-                "entity": "Data",
-                "score": 0.39980000257492065
+                "entity": "Tourism",
+                "score": 0.33480000495910645
             },
             {
-                "entity": "geospatial data",
-                "score": 0.350600004196167
+                "entity": "Neighbourhood",
+                "score": 0.30810919404029846
             },
             {
-                "entity": "Content management",
-                "score": 0.3427000045776367
+                "entity": "Apartment",
+                "score": 0.3073197305202484
             },
             {
-                "entity": "ExifTool",
-                "score": 0.3190999925136566
+                "entity": "Flag",
+                "score": 0.3038775324821472
             },
             {
-                "entity": "Red team",
-                "score": 0.30889999866485596
+                "entity": "Wood",
+                "score": 0.30037569999694824
             },
             {
-                "entity": "responsible",
-                "score": 0.3077999949455261
+                "entity": "Text",
+                "score": 0.29089879989624023
             }
         ],
         "dominant_colors": [
@@ -2036,14 +2004,10 @@
                     ]
                 ]
             }
-        ],
-        "gps_location": {
-            "latitude": 43.464455,
-            "longitude": 11.881478333333334
-        }
+        ]
     },
     {
-        "filename": "Data\\Original\\HMD_Nokia_8.3_5G.jpg",
+        "filename": "Data\\Stripped\\HMD_Nokia_8.3_5G.jpg",
         "landmarks": [],
         "labels": [
             {
@@ -2090,7 +2054,7 @@
         "web_entities": [
             {
                 "entity": "Water transportation",
-                "score": 0.7079090476036072
+                "score": 0.7162923812866211
             },
             {
                 "entity": "Water",
@@ -2098,35 +2062,35 @@
             },
             {
                 "entity": "Freight transport",
-                "score": 0.5443481206893921
+                "score": 0.5444539785385132
             },
             {
                 "entity": "Transport",
-                "score": 0.5386000275611877
+                "score": 0.5404000282287598
+            },
+            {
+                "entity": "Boat",
+                "score": 0.506579577922821
             },
             {
                 "entity": "Ocean",
-                "score": 0.45461800694465637
+                "score": 0.4545111060142517
             },
             {
                 "entity": "Yacht",
-                "score": 0.4262000024318695
+                "score": 0.4309000074863434
             },
             {
                 "entity": "Ocean liner",
-                "score": 0.4092450737953186
+                "score": 0.4115995168685913
+            },
+            {
+                "entity": "Boating",
+                "score": 0.37336060404777527
             },
             {
                 "entity": "Royal yacht",
-                "score": 0.37184667587280273
-            },
-            {
-                "entity": "Port",
-                "score": 0.3578272759914398
-            },
-            {
-                "entity": "Sea",
-                "score": 0.352546751499176
+                "score": 0.37121155858039856
             }
         ],
         "dominant_colors": [
@@ -2388,134 +2352,130 @@
                     ]
                 ]
             }
-        ],
-        "gps_location": {
-            "latitude": 60.146705555555556,
-            "longitude": 24.90677222222222
-        }
+        ]
     },
     {
-        "filename": "Data\\Original\\IMG_0007.JPEG",
+        "filename": "Data\\Stripped\\IMG_0007 (1).JPEG",
         "landmarks": [],
         "labels": [
             {
                 "label": "Cloud",
-                "score": 0.9808784127235413
+                "score": 0.9814306497573853
             },
             {
                 "label": "Sky",
-                "score": 0.9722113013267517
-            },
-            {
-                "label": "Car",
-                "score": 0.9502354860305786
+                "score": 0.9723101258277893
             },
             {
                 "label": "Atmosphere",
                 "score": 0.9481807947158813
             },
             {
+                "label": "Car",
+                "score": 0.9444394707679749
+            },
+            {
                 "label": "Wheel",
-                "score": 0.9322240948677063
+                "score": 0.9347655177116394
             },
             {
                 "label": "Tire",
-                "score": 0.9254447221755981
+                "score": 0.919962465763092
             },
             {
                 "label": "Light",
-                "score": 0.9115392565727234
-            },
-            {
-                "label": "Blue",
-                "score": 0.9065091609954834
-            },
-            {
-                "label": "Vehicle",
-                "score": 0.8952245712280273
+                "score": 0.9112846255302429
             },
             {
                 "label": "Infrastructure",
-                "score": 0.8923250436782837
+                "score": 0.8902685642242432
+            },
+            {
+                "label": "Automotive lighting",
+                "score": 0.888829231262207
+            },
+            {
+                "label": "Vehicle",
+                "score": 0.8837876915931702
             }
         ],
         "web_entities": [
             {
                 "entity": "Car",
-                "score": 0.5841000080108643
-            },
-            {
-                "entity": "Parking",
-                "score": 0.4558679461479187
-            },
-            {
-                "entity": "Sunset",
-                "score": 0.42411261796951294
-            },
-            {
-                "entity": "Street",
-                "score": 0.419114351272583
-            },
-            {
-                "entity": "Red sky at morning",
-                "score": 0.41824716329574585
-            },
-            {
-                "entity": "Street light",
-                "score": 0.41128745675086975
+                "score": 0.5879999995231628
             },
             {
                 "entity": "Family car",
-                "score": 0.4048103094100952
+                "score": 0.4038277268409729
+            },
+            {
+                "entity": "Red sky at morning",
+                "score": 0.39476171135902405
+            },
+            {
+                "entity": "Parking",
+                "score": 0.37744003534317017
+            },
+            {
+                "entity": "Family",
+                "score": 0.374099999666214
+            },
+            {
+                "entity": "",
+                "score": 0.374099999666214
+            },
+            {
+                "entity": "Electrical network",
+                "score": 0.3494345247745514
             },
             {
                 "entity": "Overhead power line",
-                "score": 0.3987359404563904
+                "score": 0.3415590226650238
             },
             {
                 "entity": "Traffic",
-                "score": 0.39145782589912415
+                "score": 0.3385767936706543
             },
             {
-                "entity": "Parking lot",
-                "score": 0.38395413756370544
+                "entity": "Wire",
+                "score": 0.3381500542163849
             }
         ],
         "dominant_colors": [
             {
-                "red": 204.0,
-                "green": 134.0,
-                "blue": 158.0,
-                "score": 0.23603959381580353,
-                "pixel_fraction": 0.04707964509725571
+                "red": 192.0,
+                "green": 142.0,
+                "blue": 161.0,
+                "score": 0.21521207690238953,
+                "pixel_fraction": 0.061238937079906464
             },
             {
-                "red": 218.0,
-                "green": 173.0,
-                "blue": 190.0,
-                "score": 0.04877588897943497,
-                "pixel_fraction": 0.03162241727113724
+                "red": 232.0,
+                "green": 175.0,
+                "blue": 159.0,
+                "score": 0.0732368528842926,
+                "pixel_fraction": 0.022772861644625664
             },
             {
-                "red": 163.0,
-                "green": 150.0,
-                "blue": 218.0,
-                "score": 0.041724178940057755,
-                "pixel_fraction": 0.1195870190858841
+                "red": 58.0,
+                "green": 46.0,
+                "blue": 72.0,
+                "score": 0.003544721519574523,
+                "pixel_fraction": 0.019587021321058273
             },
             {
-                "red": 102.0,
-                "green": 74.0,
-                "blue": 77.0,
-                "score": 0.008223182521760464,
-                "pixel_fraction": 0.021651918068528175
+                "red": 181.0,
+                "green": 141.0,
+                "blue": 180.0,
+                "score": 0.1411094218492508,
+                "pixel_fraction": 0.11044247448444366
             },
             {
-                "red": 62.0,
-                "green": 48.0,
-                "blue": 75.0,
-                "score": 0.005382344592362642,
-                "pixel_fraction": 0.024129793047904968
+                "red": 200.0,
+                "green": 137.0,
+                "blue": 157.0,
+                "score": 0.0845864862203598,
+                "pixel_fraction": 0.015221239067614079
             }
         ],
         "safe_search": {
@@ -2528,18 +2488,18 @@
         "objects": [
             {
                 "name": "Car",
-                "score": 0.8559160232543945,
+                "score": 0.8530693650245667,
                 "bounding_poly": [
                     {
                         "x": 0.08447265625,
                         "y": 0.87890625
                     },
                     {
-                        "x": 0.23828125,
+                        "x": 0.2412109375,
                         "y": 0.87890625
                     },
                     {
-                        "x": 0.23828125,
+                        "x": 0.2412109375,
                         "y": 0.953125
                     },
                     {
@@ -2550,7 +2510,7 @@
             },
             {
                 "name": "Car",
-                "score": 0.8493009209632874,
+                "score": 0.849237859249115,
                 "bounding_poly": [
                     {
                         "x": 0.1904296875,
@@ -2572,29 +2532,29 @@
             },
             {
                 "name": "Car",
-                "score": 0.8412221670150757,
+                "score": 0.83693927526474,
                 "bounding_poly": [
                     {
-                        "x": 0.60546875,
+                        "x": 0.6171875,
                         "y": 0.88671875
                     },
                     {
-                        "x": 0.71484375,
+                        "x": 0.71875,
                         "y": 0.88671875
                     },
                     {
-                        "x": 0.71484375,
+                        "x": 0.71875,
                         "y": 0.953125
                     },
                     {
-                        "x": 0.60546875,
+                        "x": 0.6171875,
                         "y": 0.953125
                     }
                 ]
             },
             {
                 "name": "Car",
-                "score": 0.8315228223800659,
+                "score": 0.8289225697517395,
                 "bounding_poly": [
                     {
                         "x": 0.89453125,
@@ -2615,27 +2575,27 @@
                 ]
             }
         ],
-        "text_coordinates": [],
-        "gps_location": {
-            "latitude": 40.006477777777775,
-            "longitude": -83.00562222222223
-        }
+        "text_coordinates": []
     },
     {
-        "filename": "Data\\Original\\IMG_0030.JPEG",
+        "filename": "Data\\Stripped\\IMG_0030.JPEG",
         "landmarks": [],
         "labels": [
             {
                 "label": "Water",
-                "score": 0.9800181984901428
+                "score": 0.979411780834198
             },
             {
                 "label": "Cloud",
-                "score": 0.9707052111625671
+                "score": 0.9649791717529297
             },
             {
                 "label": "Sky",
-                "score": 0.964130163192749
+                "score": 0.9648173451423645
+            },
+            {
+                "label": "Water resources",
+                "score": 0.9488963484764099
             },
             {
                 "label": "Atmosphere",
@@ -2643,106 +2603,102 @@
             },
             {
                 "label": "Afterglow",
-                "score": 0.9137158393859863
+                "score": 0.9126306176185608
             },
             {
                 "label": "Natural landscape",
-                "score": 0.8987901210784912
+                "score": 0.8926413059234619
             },
             {
                 "label": "Plant",
-                "score": 0.884048342704773
+                "score": 0.8811681866645813
             },
             {
                 "label": "Orange",
-                "score": 0.8645638823509216
+                "score": 0.8656256794929504
             },
             {
                 "label": "Tree",
-                "score": 0.8635460138320923
-            },
-            {
-                "label": "Red sky at morning",
-                "score": 0.8497961759567261
+                "score": 0.8592173457145691
             }
         ],
         "web_entities": [
             {
                 "entity": "Wetland",
-                "score": 0.4745388329029083
+                "score": 0.4786534011363983
             },
             {
                 "entity": "Red sky at morning",
-                "score": 0.4220198094844818
+                "score": 0.4568251073360443
             },
             {
                 "entity": "Sunset",
-                "score": 0.38999196887016296
+                "score": 0.45494064688682556
             },
             {
-                "entity": "Bayou",
-                "score": 0.3509337306022644
+                "entity": "Night",
+                "score": 0.3702687621116638
             },
             {
                 "entity": "Evening",
-                "score": 0.3466438353061676
+                "score": 0.3679587244987488
             },
             {
-                "entity": "Sea",
-                "score": 0.3271277844905853
+                "entity": "Bayou",
+                "score": 0.3541201949119568
             },
             {
                 "entity": "Sunlight",
-                "score": 0.31946733593940735
+                "score": 0.3326532244682312
             },
             {
-                "entity": "Tree",
-                "score": 0.3042888641357422
-            },
-            {
-                "entity": "Ocean",
-                "score": 0.3008507490158081
+                "entity": "Sea",
+                "score": 0.3325110673904419
             },
             {
                 "entity": "Cumulus",
-                "score": 0.3004186451435089
+                "score": 0.30575424432754517
+            },
+            {
+                "entity": "Tree",
+                "score": 0.3041672110557556
             }
         ],
         "dominant_colors": [
             {
                 "red": 252.0,
-                "green": 242.0,
-                "blue": 25.0,
-                "score": 0.2410445660352707,
-                "pixel_fraction": 0.01946902647614479
+                "green": 244.0,
+                "blue": 89.0,
+                "score": 0.21603576838970184,
+                "pixel_fraction": 0.014926253817975521
             },
             {
-                "red": 221.0,
+                "red": 215.0,
                 "green": 155.0,
-                "blue": 106.0,
-                "score": 0.07910804450511932,
-                "pixel_fraction": 0.02896755188703537
+                "blue": 104.0,
+                "score": 0.14567668735980988,
+                "pixel_fraction": 0.03769911453127861
             },
             {
-                "red": 253.0,
-                "green": 157.0,
-                "blue": 56.0,
-                "score": 0.05143728479743004,
-                "pixel_fraction": 0.00831858441233635
+                "red": 123.0,
+                "green": 72.0,
+                "blue": 27.0,
+                "score": 0.049697671085596085,
+                "pixel_fraction": 0.04637167975306511
             },
             {
-                "red": 238.0,
-                "green": 146.0,
-                "blue": 71.0,
-                "score": 0.04915183037519455,
-                "pixel_fraction": 0.013569321483373642
+                "red": 251.0,
+                "green": 224.0,
+                "blue": 85.0,
+                "score": 0.07006670534610748,
+                "pixel_fraction": 0.006843657698482275
             },
             {
-                "red": 121.0,
-                "green": 68.0,
-                "blue": 23.0,
-                "score": 0.04013366997241974,
-                "pixel_fraction": 0.04058996960520744
+                "red": 224.0,
+                "green": 152.0,
+                "blue": 80.0,
+                "score": 0.06241650506854057,
+                "pixel_fraction": 0.01988200657069683
             }
         ],
         "safe_search": {
@@ -2753,134 +2709,130 @@
             "racy": "VERY_UNLIKELY"
         },
         "objects": [],
-        "text_coordinates": [],
-        "gps_location": {
-            "latitude": 39.97654444444445,
-            "longitude": -83.00528055555556
-        }
+        "text_coordinates": []
     },
     {
-        "filename": "Data\\Original\\IMG_0170.JPEG",
+        "filename": "Data\\Stripped\\IMG_0170 (1).JPEG",
         "landmarks": [],
         "labels": [
             {
                 "label": "Plant",
-                "score": 0.9694902896881104
+                "score": 0.9675068259239197
             },
             {
                 "label": "Plant community",
-                "score": 0.9364573955535889
+                "score": 0.9340348839759827
             },
             {
                 "label": "Ecoregion",
-                "score": 0.9216951131820679
+                "score": 0.9210101962089539
             },
             {
                 "label": "Natural landscape",
-                "score": 0.8970390558242798
+                "score": 0.8898186087608337
             },
             {
                 "label": "Tree",
-                "score": 0.8871238231658936
+                "score": 0.8833725452423096
             },
             {
                 "label": "Wood",
-                "score": 0.8812650442123413
+                "score": 0.8816095590591431
             },
             {
                 "label": "Bedrock",
-                "score": 0.8775567412376404
+                "score": 0.875758945941925
             },
             {
                 "label": "Branch",
-                "score": 0.8670262694358826
+                "score": 0.8692954182624817
             },
             {
                 "label": "Terrestrial plant",
-                "score": 0.8650330305099487
+                "score": 0.8641734719276428
             },
             {
                 "label": "Trunk",
-                "score": 0.8562266230583191
+                "score": 0.8540642261505127
             }
         ],
         "web_entities": [
             {
                 "entity": "Damaksnis",
-                "score": 0.8052000403404236
+                "score": 0.7278000116348267
             },
             {
                 "entity": "Riparian forest",
-                "score": 0.5047626495361328
+                "score": 0.4845826327800751
             },
             {
                 "entity": "Riparian zone",
-                "score": 0.48296457529067993
-            },
-            {
-                "entity": "Temperate coniferous forest",
-                "score": 0.4526999890804291
+                "score": 0.4742727279663086
             },
             {
                 "entity": "/m/083vt",
-                "score": 0.450300008058548
+                "score": 0.4595000147819519
+            },
+            {
+                "entity": "Temperate coniferous forest",
+                "score": 0.453900009393692
             },
             {
                 "entity": "Forest",
-                "score": 0.43479999899864197
-            },
-            {
-                "entity": "Spruce",
-                "score": 0.4293000102043152
-            },
-            {
-                "entity": "Temperate broadleaf and mixed forests",
-                "score": 0.4235548675060272
+                "score": 0.43070000410079956
             },
             {
                 "entity": "Old-growth forest",
-                "score": 0.4094942510128021
+                "score": 0.4301919639110565
             },
             {
-                "entity": "Fir",
-                "score": 0.40700000524520874
+                "entity": "Temperate broadleaf and mixed forests",
+                "score": 0.42466968297958374
+            },
+            {
+                "entity": "Spruce",
+                "score": 0.4083999991416931
+            },
+            {
+                "entity": "Northern hardwood forest",
+                "score": 0.40193185210227966
             }
         ],
         "dominant_colors": [
             {
-                "red": 149.0,
-                "green": 163.0,
-                "blue": 93.0,
-                "score": 0.1385258436203003,
-                "pixel_fraction": 0.034749262034893036
+                "red": 150.0,
+                "green": 162.0,
+                "blue": 98.0,
+                "score": 0.13807295262813568,
+                "pixel_fraction": 0.029557522386312485
             },
             {
-                "red": 43.0,
+                "red": 44.0,
                 "green": 50.0,
                 "blue": 40.0,
-                "score": 0.05180666595697403,
-                "pixel_fraction": 0.07994100451469421
+                "score": 0.09964814782142639,
+                "pixel_fraction": 0.11427728831768036
             },
             {
-                "red": 39.0,
-                "green": 51.0,
-                "blue": 30.0,
-                "score": 0.0374741330742836,
-                "pixel_fraction": 0.04843657836318016
+                "red": 235.0,
+                "green": 234.0,
+                "blue": 200.0,
+                "score": 0.04713529348373413,
+                "pixel_fraction": 0.011268436908721924
             },
             {
-                "red": 239.0,
-                "green": 237.0,
-                "blue": 203.0,
-                "score": 0.03449017181992531,
-                "pixel_fraction": 0.01050147507339716
+                "red": 132.0,
+                "green": 169.0,
+                "blue": 71.0,
+                "score": 0.0037626666016876698,
+                "pixel_fraction": 0.000530973426066339
             },
             {
-                "red": 112.0,
-                "green": 127.0,
-                "blue": 62.0,
-                "score": 0.11288902163505554,
-                "pixel_fraction": 0.02784660831093788
+                "red": 190.0,
+                "green": 197.0,
+                "blue": 130.0,
+                "score": 0.13534493744373322,
+                "pixel_fraction": 0.020176991820335388
             }
         ],
         "safe_search": {
@@ -2890,98 +2842,117 @@
             "violence": "VERY_UNLIKELY",
             "racy": "UNLIKELY"
         },
-        "objects": [],
-        "text_coordinates": [],
-        "gps_location": {
-            "latitude": 39.41291944444444,
-            "longitude": -82.49943611111111
-        }
+        "objects": [
+            {
+                "name": "Bridge",
+                "score": 0.5930889248847961,
+                "bounding_poly": [
+                    {
+                        "x": 0.0191650390625,
+                        "y": 0.2236328125
+                    },
+                    {
+                        "x": 0.9453125,
+                        "y": 0.2236328125
+                    },
+                    {
+                        "x": 0.9453125,
+                        "y": 0.88671875
+                    },
+                    {
+                        "x": 0.0191650390625,
+                        "y": 0.88671875
+                    }
+                ]
+            }
+        ],
+        "text_coordinates": []
     },
     {
-        "filename": "Data\\Original\\IMG_0615.JPEG",
+        "filename": "Data\\Stripped\\IMG_0615 (1).JPEG",
         "landmarks": [],
         "labels": [
             {
                 "label": "Sky",
-                "score": 0.9694699048995972
+                "score": 0.9674600958824158
+            },
+            {
+                "label": "Atmosphere",
+                "score": 0.9481807947158813
             },
             {
                 "label": "Flash photography",
-                "score": 0.8595827221870422
+                "score": 0.8663039803504944
             },
             {
                 "label": "Tree",
-                "score": 0.8565605282783508
+                "score": 0.8566558361053467
             },
             {
                 "label": "Automotive lighting",
-                "score": 0.7859707474708557
+                "score": 0.817984402179718
             },
             {
                 "label": "Gas",
-                "score": 0.7807071208953857
+                "score": 0.7807359099388123
             },
             {
                 "label": "Tints and shades",
-                "score": 0.7737405896186829
+                "score": 0.7737511992454529
             },
             {
                 "label": "Landscape",
-                "score": 0.7707734107971191
+                "score": 0.7681248188018799
             },
             {
                 "label": "Heat",
-                "score": 0.765857994556427
+                "score": 0.752749502658844
             },
             {
-                "label": "Plant",
-                "score": 0.7009602189064026
-            },
-            {
-                "label": "Darkness",
-                "score": 0.6802123188972473
+                "label": "Hat",
+                "score": 0.7037810683250427
             }
         ],
         "web_entities": [
             {
                 "entity": "Photography",
-                "score": 0.5194000005722046
+                "score": 0.5156000256538391
             },
             {
                 "entity": "M-027",
-                "score": 0.505299985408783
+                "score": 0.5051000118255615
             },
             {
                 "entity": "Lens flare",
-                "score": 0.46935439109802246
+                "score": 0.46506762504577637
+            },
+            {
+                "entity": "Road",
+                "score": 0.4490622580051422
             },
             {
                 "entity": "Still life photography",
-                "score": 0.44281333684921265
-            },
-            {
-                "entity": "Still life",
-                "score": 0.41110000014305115
+                "score": 0.4390393793582916
             },
             {
                 "entity": "Celestial Object",
-                "score": 0.4022603929042816
-            },
-            {
-                "entity": "Lens",
-                "score": 0.37700000405311584
-            },
-            {
-                "entity": "Flash",
-                "score": 0.36329999566078186
+                "score": 0.4023912250995636
             },
             {
                 "entity": "Street light",
-                "score": 0.344760537147522
+                "score": 0.38901716470718384
             },
             {
-                "entity": "Astronomy",
-                "score": 0.33090001344680786
+                "entity": "Still life",
+                "score": 0.38839998841285706
+            },
+            {
+                "entity": "Lens",
+                "score": 0.3709999918937683
+            },
+            {
+                "entity": "Flash",
+                "score": 0.35409998893737793
             }
         ],
         "dominant_colors": [
@@ -2989,36 +2960,36 @@
                 "red": 159.0,
                 "green": 154.0,
                 "blue": 143.0,
-                "score": 0.2498987913131714,
-                "pixel_fraction": 0.1119174063205719
+                "score": 0.27546945214271545,
+                "pixel_fraction": 0.11769911646842957
             },
             {
-                "red": 192.0,
+                "red": 191.0,
                 "green": 186.0,
-                "blue": 165.0,
-                "score": 0.22171324491500854,
-                "pixel_fraction": 0.05917404219508171
+                "blue": 166.0,
+                "score": 0.22297273576259613,
+                "pixel_fraction": 0.05669616535305977
             },
             {
-                "red": 117.0,
-                "green": 69.0,
-                "blue": 22.0,
-                "score": 0.03390326350927353,
-                "pixel_fraction": 0.01781710982322693
+                "red": 114.0,
+                "green": 73.0,
+                "blue": 31.0,
+                "score": 0.02764541655778885,
+                "pixel_fraction": 0.014218289405107498
             },
             {
-                "red": 168.0,
-                "green": 159.0,
-                "blue": 138.0,
-                "score": 0.1731080561876297,
-                "pixel_fraction": 0.047846607863903046
+                "red": 77.0,
+                "green": 43.0,
+                "blue": 20.0,
+                "score": 0.021390393376350403,
+                "pixel_fraction": 0.02294985204935074
             },
             {
-                "red": 130.0,
-                "green": 124.0,
-                "blue": 115.0,
-                "score": 0.08395131677389145,
-                "pixel_fraction": 0.1808849573135376
+                "red": 27.0,
+                "green": 15.0,
+                "blue": 8.0,
+                "score": 0.0065430947579443455,
+                "pixel_fraction": 0.22477875649929047
             }
         ],
         "safe_search": {
@@ -3031,7 +3002,7 @@
         "objects": [
             {
                 "name": "Clothing",
-                "score": 0.7730965614318848,
+                "score": 0.7770231366157532,
                 "bounding_poly": [
                     {
                         "x": 0.6015625,
@@ -3043,17 +3014,17 @@
                     },
                     {
                         "x": 0.671875,
-                        "y": 0.84375
+                        "y": 0.83984375
                     },
                     {
                         "x": 0.6015625,
-                        "y": 0.84375
+                        "y": 0.83984375
                     }
                 ]
             },
             {
                 "name": "Person",
-                "score": 0.7371689677238464,
+                "score": 0.7398520112037659,
                 "bounding_poly": [
                     {
                         "x": 0.58984375,
@@ -3075,7 +3046,7 @@
             },
             {
                 "name": "Person",
-                "score": 0.7004560232162476,
+                "score": 0.6841721534729004,
                 "bounding_poly": [
                     {
                         "x": 0.4296875,
@@ -3096,199 +3067,167 @@
                 ]
             }
         ],
-        "text_coordinates": [
-            {
-                "text": "B",
-                "coords": [
-                    [
-                        312,
-                        1174
-                    ],
-                    [
-                        340,
-                        1174
-                    ],
-                    [
-                        340,
-                        1188
-                    ],
-                    [
-                        312,
-                        1188
-                    ]
-                ]
-            }
-        ],
-        "gps_location": {
-            "latitude": 39.35743055555556,
-            "longitude": -84.33200833333333
-        }
+        "text_coordinates": []
     },
     {
-        "filename": "Data\\Original\\IMG_4964.JPEG",
+        "filename": "Data\\Stripped\\IMG_4964.JPEG",
         "landmarks": [
             {
                 "name": "Theo's Cozy Corner Restaurant",
                 "latitude": 42.3661235,
                 "longitude": -71.0550942,
-                "confidence": 0.44414961338043213
+                "confidence": 0.43747586011886597
             },
             {
                 "name": "Saus Boston",
                 "latitude": 42.3611351,
                 "longitude": -71.0568583,
-                "confidence": 0.38089486956596375
+                "confidence": 0.386750191450119
             },
             {
                 "name": "Pauli's",
                 "latitude": 42.3633174,
                 "longitude": -71.0559772,
-                "confidence": 0.3635524809360504
+                "confidence": 0.3582038879394531
             },
             {
                 "name": "Boston National Historical Park",
                 "latitude": 42.373565,
                 "longitude": -71.0560388,
-                "confidence": 0.32412195205688477
+                "confidence": 0.3183657228946686
             },
             {
                 "name": "La Famiglia Giorgio's Restaurant",
                 "latitude": 42.3645597,
                 "longitude": -71.0555835,
-                "confidence": 0.30853986740112305
+                "confidence": 0.3051559031009674
             },
             {
                 "name": "Massimino's",
                 "latitude": 42.3665351,
                 "longitude": -71.05788559999999,
-                "confidence": 0.30699238181114197
-            },
-            {
-                "name": "Al Dente Ristorante",
-                "latitude": 42.364221199999996,
-                "longitude": -71.0554401,
-                "confidence": 0.2832311987876892
+                "confidence": 0.2942522168159485
             }
         ],
         "labels": [
             {
                 "label": "Sky",
-                "score": 0.9626926779747009
+                "score": 0.9618566036224365
+            },
+            {
+                "label": "Land vehicle",
+                "score": 0.9593392610549927
             },
             {
                 "label": "Building",
-                "score": 0.9565053582191467
+                "score": 0.9579306244850159
             },
             {
                 "label": "Window",
-                "score": 0.9378901124000549
+                "score": 0.9365863800048828
             },
             {
                 "label": "Car",
-                "score": 0.924954891204834
+                "score": 0.92268967628479
             },
             {
                 "label": "Vehicle",
-                "score": 0.9138917922973633
+                "score": 0.9130158424377441
             },
             {
                 "label": "Vehicle registration plate",
-                "score": 0.8986914157867432
-            },
-            {
-                "label": "Street light",
-                "score": 0.8920224905014038
+                "score": 0.8941296935081482
             },
             {
                 "label": "Infrastructure",
-                "score": 0.8878191709518433
+                "score": 0.8892046213150024
+            },
+            {
+                "label": "Street light",
+                "score": 0.8852242827415466
             },
             {
                 "label": "Road surface",
-                "score": 0.8696502447128296
-            },
-            {
-                "label": "Thoroughfare",
-                "score": 0.8519083261489868
+                "score": 0.8730385899543762
             }
         ],
         "web_entities": [
             {
                 "entity": "Car",
-                "score": 0.581849992275238
+                "score": 0.5759999752044678
             },
             {
-                "entity": "Apartment",
-                "score": 0.5120919346809387
+                "entity": "A-segment",
+                "score": 0.4883727729320526
             },
             {
-                "entity": "Window",
-                "score": 0.49333423376083374
-            },
-            {
-                "entity": "House",
-                "score": 0.4869072139263153
-            },
-            {
-                "entity": "Building",
-                "score": 0.460999995470047
-            },
-            {
-                "entity": "Neighbourhood",
-                "score": 0.4515131711959839
+                "entity": "Zebra crossing",
+                "score": 0.4870818555355072
             },
             {
                 "entity": "Street",
-                "score": 0.4508160948753357
-            },
-            {
-                "entity": "Traffic",
-                "score": 0.4306522309780121
+                "score": 0.47313177585601807
             },
             {
                 "entity": "Pedestrian",
-                "score": 0.42675554752349854
+                "score": 0.46636638045310974
+            },
+            {
+                "entity": "Traffic",
+                "score": 0.44897764921188354
+            },
+            {
+                "entity": "Neighbourhood",
+                "score": 0.4461919069290161
+            },
+            {
+                "entity": "Apartment",
+                "score": 0.44439697265625
             },
             {
                 "entity": "Sidewalk",
-                "score": 0.42384153604507446
+                "score": 0.43081945180892944
+            },
+            {
+                "entity": "Street light",
+                "score": 0.4254789650440216
             }
         ],
         "dominant_colors": [
             {
-                "red": 122.0,
+                "red": 137.0,
                 "green": 187.0,
-                "blue": 246.0,
-                "score": 0.29345405101776123,
-                "pixel_fraction": 0.14643067121505737
-            },
-            {
-                "red": 55.0,
-                "green": 53.0,
-                "blue": 58.0,
-                "score": 0.07137161493301392,
-                "pixel_fraction": 0.10943952947854996
+                "blue": 242.0,
+                "score": 0.36916279792785645,
+                "pixel_fraction": 0.15368731319904327
             },
             {
                 "red": 14.0,
-                "green": 23.0,
-                "blue": 42.0,
-                "score": 0.05083821713924408,
-                "pixel_fraction": 0.041828908026218414
-            },
-            {
-                "red": 68.0,
-                "green": 93.0,
-                "blue": 58.0,
-                "score": 0.00495633389800787,
-                "pixel_fraction": 0.002713864203542471
-            },
-            {
-                "red": 6.0,
                 "green": 22.0,
-                "blue": 62.0,
-                "score": 0.002294316655024886,
-                "pixel_fraction": 0.001061946852132678
+                "blue": 41.0,
+                "score": 0.20388801395893097,
+                "pixel_fraction": 0.03764011710882187
+            },
+            {
+                "red": 182.0,
+                "green": 138.0,
+                "blue": 121.0,
+                "score": 0.1302981972694397,
+                "pixel_fraction": 0.07746312767267227
+            },
+            {
+                "red": 73.0,
+                "green": 95.0,
+                "blue": 63.0,
+                "score": 0.004498674068599939,
+                "pixel_fraction": 0.0033628318924456835
+            },
+            {
+                "red": 0.0,
+                "green": 18.0,
+                "blue": 57.0,
+                "score": 0.0011676852591335773,
+                "pixel_fraction": 0.00029498524963855743
             }
         ],
         "safe_search": {
@@ -3301,7 +3240,7 @@
         "objects": [
             {
                 "name": "Car",
-                "score": 0.8867874145507812,
+                "score": 0.8835180401802063,
                 "bounding_poly": [
                     {
                         "x": 0.55859375,
@@ -3323,10 +3262,10 @@
             },
             {
                 "name": "Person",
-                "score": 0.7002330422401428,
+                "score": 0.704642117023468,
                 "bounding_poly": [
                     {
-                        "x": 0.88671875,
+                        "x": 0.87890625,
                         "y": 0.765625
                     },
                     {
@@ -3338,80 +3277,58 @@
                         "y": 0.875
                     },
                     {
-                        "x": 0.88671875,
+                        "x": 0.87890625,
                         "y": 0.875
+                    }
+                ]
+            },
+            {
+                "name": "Person",
+                "score": 0.6833108067512512,
+                "bounding_poly": [
+                    {
+                        "x": 0.828125,
+                        "y": 0.76953125
+                    },
+                    {
+                        "x": 0.9921875,
+                        "y": 0.76953125
+                    },
+                    {
+                        "x": 0.9921875,
+                        "y": 1.0
+                    },
+                    {
+                        "x": 0.828125,
+                        "y": 1.0
                     }
                 ]
             },
             {
                 "name": "Building",
-                "score": 0.6977352499961853,
+                "score": 0.6832059621810913,
                 "bounding_poly": [
                     {
-                        "x": 0.01043701171875,
-                        "y": 0.01385498046875
+                        "x": 0.01025390625,
+                        "y": 0.0145263671875
                     },
                     {
                         "x": 0.56640625,
-                        "y": 0.01385498046875
+                        "y": 0.0145263671875
                     },
                     {
                         "x": 0.56640625,
                         "y": 0.84375
                     },
                     {
-                        "x": 0.01043701171875,
+                        "x": 0.01025390625,
                         "y": 0.84375
-                    }
-                ]
-            },
-            {
-                "name": "Person",
-                "score": 0.6893622279167175,
-                "bounding_poly": [
-                    {
-                        "x": 0.828125,
-                        "y": 0.76953125
-                    },
-                    {
-                        "x": 0.9921875,
-                        "y": 0.76953125
-                    },
-                    {
-                        "x": 0.9921875,
-                        "y": 1.0
-                    },
-                    {
-                        "x": 0.828125,
-                        "y": 1.0
-                    }
-                ]
-            },
-            {
-                "name": "Person",
-                "score": 0.5670801401138306,
-                "bounding_poly": [
-                    {
-                        "x": 0.828125,
-                        "y": 0.76953125
-                    },
-                    {
-                        "x": 0.9921875,
-                        "y": 0.76953125
-                    },
-                    {
-                        "x": 0.9921875,
-                        "y": 1.0
-                    },
-                    {
-                        "x": 0.828125,
-                        "y": 1.0
                     }
                 ]
             },
             {
                 "name": "Car",
-                "score": 0.558582067489624,
+                "score": 0.5669639110565186,
                 "bounding_poly": [
                     {
                         "x": 0.76171875,
@@ -3432,8 +3349,30 @@
                 ]
             },
             {
+                "name": "Person",
+                "score": 0.5534370541572571,
+                "bounding_poly": [
+                    {
+                        "x": 0.828125,
+                        "y": 0.76953125
+                    },
+                    {
+                        "x": 0.9921875,
+                        "y": 0.76953125
+                    },
+                    {
+                        "x": 0.9921875,
+                        "y": 1.0
+                    },
+                    {
+                        "x": 0.828125,
+                        "y": 1.0
+                    }
+                ]
+            },
+            {
                 "name": "Building",
-                "score": 0.5161774754524231,
+                "score": 0.5178705453872681,
                 "bounding_poly": [
                     {
                         "x": 0.734375,
@@ -3445,17 +3384,17 @@
                     },
                     {
                         "x": 0.8359375,
-                        "y": 0.78125
+                        "y": 0.78515625
                     },
                     {
                         "x": 0.734375,
-                        "y": 0.78125
+                        "y": 0.78515625
                     }
                 ]
             },
             {
                 "name": "Building",
-                "score": 0.5102272033691406,
+                "score": 0.5009761452674866,
                 "bounding_poly": [
                     {
                         "x": 0.53125,
@@ -3472,28 +3411,6 @@
                     {
                         "x": 0.53125,
                         "y": 0.82421875
-                    }
-                ]
-            },
-            {
-                "name": "Clothing",
-                "score": 0.5047395825386047,
-                "bounding_poly": [
-                    {
-                        "x": 0.88671875,
-                        "y": 0.765625
-                    },
-                    {
-                        "x": 0.9453125,
-                        "y": 0.765625
-                    },
-                    {
-                        "x": 0.9453125,
-                        "y": 0.875
-                    },
-                    {
-                        "x": 0.88671875,
-                        "y": 0.875
                     }
                 ]
             }
@@ -3613,19 +3530,19 @@
                 "coords": [
                     [
                         492,
-                        1346
+                        1347
                     ],
                     [
                         505,
-                        1346
+                        1348
                     ],
                     [
                         504,
-                        1364
+                        1366
                     ],
                     [
                         491,
-                        1364
+                        1365
                     ]
                 ]
             },
@@ -3654,19 +3571,19 @@
                 "text": "SALEM",
                 "coords": [
                     [
-                        531,
+                        529,
                         1366
                     ],
                     [
                         554,
-                        1373
+                        1374
                     ],
                     [
                         549,
                         1388
                     ],
                     [
-                        526,
+                        524,
                         1380
                     ]
                 ]
@@ -3756,22 +3673,22 @@
                 ]
             },
             {
-                "text": "WILTON",
+                "text": "wund",
                 "coords": [
                     [
-                        914,
-                        1707
-                    ],
-                    [
-                        940,
+                        915,
                         1708
                     ],
                     [
-                        940,
+                        936,
+                        1709
+                    ],
+                    [
+                        936,
                         1714
                     ],
                     [
-                        914,
+                        915,
                         1713
                     ]
                 ]
@@ -3822,7 +3739,7 @@
                 "text": "TY7",
                 "coords": [
                     [
-                        1021,
+                        1020,
                         1759
                     ],
                     [
@@ -3834,7 +3751,7 @@
                         1778
                     ],
                     [
-                        1020,
+                        1019,
                         1776
                     ]
                 ]
@@ -3843,20 +3760,20 @@
                 "text": "VII",
                 "coords": [
                     [
-                        1509,
+                        1511,
                         753
                     ],
                     [
                         1485,
-                        723
+                        721
                     ],
                     [
                         1509,
-                        703
+                        702
                     ],
                     [
-                        1534,
-                        733
+                        1535,
+                        734
                     ]
                 ]
             },
@@ -3868,12 +3785,12 @@
                         717
                     ],
                     [
-                        1456,
-                        686
+                        1457,
+                        687
                     ],
                     [
                         1481,
-                        666
+                        667
                     ],
                     [
                         1506,
@@ -3881,159 +3798,155 @@
                     ]
                 ]
             }
-        ],
-        "gps_location": {
-            "latitude": 42.36586388888889,
-            "longitude": -71.05508333333333
-        }
+        ]
     },
     {
-        "filename": "Data\\Original\\IMG_4968.JPEG",
+        "filename": "Data\\Stripped\\IMG_4968.JPEG",
         "landmarks": [
-            {
-                "name": "Starbucks",
-                "latitude": 42.351483099999996,
-                "longitude": -71.0729965,
-                "confidence": 0.3351297080516815
-            },
             {
                 "name": "Public Garden",
                 "latitude": 42.354620399999995,
                 "longitude": -71.070785,
-                "confidence": 0.3206104338169098
+                "confidence": 0.3330814838409424
+            },
+            {
+                "name": "Starbucks",
+                "latitude": 42.351483099999996,
+                "longitude": -71.0729965,
+                "confidence": 0.3329544961452484
             },
             {
                 "name": "501 Boylston",
                 "latitude": 42.351028,
                 "longitude": -71.074505,
-                "confidence": 0.31791219115257263
+                "confidence": 0.306066632270813
             },
             {
                 "name": "Tatte Bakery & Cafe",
                 "latitude": 42.35175830000001,
                 "longitude": -71.0719028,
-                "confidence": 0.2653811573982239
+                "confidence": 0.26135531067848206
             }
         ],
         "labels": [
             {
                 "label": "Sky",
-                "score": 0.9740442633628845
+                "score": 0.9739706516265869
             },
             {
                 "label": "Building",
-                "score": 0.9487273097038269
+                "score": 0.9483815431594849
             },
             {
                 "label": "Tower",
-                "score": 0.848741352558136
+                "score": 0.844764232635498
             },
             {
                 "label": "Cloud",
-                "score": 0.8301212191581726
+                "score": 0.8429118990898132
             },
             {
                 "label": "Street light",
-                "score": 0.8161646127700806
+                "score": 0.8107646703720093
             },
             {
                 "label": "Tire",
-                "score": 0.7976440787315369
-            },
-            {
-                "label": "Thoroughfare",
-                "score": 0.7832408547401428
+                "score": 0.8075762391090393
             },
             {
                 "label": "Facade",
-                "score": 0.7770493030548096
-            },
-            {
-                "label": "Tree",
-                "score": 0.7598808407783508
+                "score": 0.7738867402076721
             },
             {
                 "label": "City",
-                "score": 0.7563667297363281
+                "score": 0.7574784159660339
+            },
+            {
+                "label": "Metropolis",
+                "score": 0.7391310930252075
+            },
+            {
+                "label": "Tree",
+                "score": 0.7357914447784424
             }
         ],
         "web_entities": [
             {
                 "entity": "Medieval architecture",
-                "score": 0.5973461866378784
-            },
-            {
-                "entity": "Gothic architecture",
-                "score": 0.5564489364624023
+                "score": 0.5934284925460815
             },
             {
                 "entity": "Car",
-                "score": 0.5359500050544739
+                "score": 0.5361000299453735
             },
             {
                 "entity": "Architecture",
-                "score": 0.5335000157356262
+                "score": 0.5260999798774719
             },
             {
                 "entity": "Tourism",
-                "score": 0.5210999846458435
+                "score": 0.5120000243186951
             },
             {
                 "entity": "Steeple",
-                "score": 0.4956314265727997
+                "score": 0.4870624840259552
             },
             {
                 "entity": "Classical architecture",
-                "score": 0.4773564636707306
+                "score": 0.4719860851764679
             },
             {
                 "entity": "Skyscraper",
-                "score": 0.45203670859336853
+                "score": 0.44993337988853455
             },
             {
                 "entity": "Listed building",
-                "score": 0.4378897249698639
+                "score": 0.441586971282959
+            },
+            {
+                "entity": "Gothic architecture",
+                "score": 0.422481894493103
             },
             {
                 "entity": "Monument",
-                "score": 0.43025726079940796
+                "score": 0.4200599193572998
             }
         ],
         "dominant_colors": [
             {
-                "red": 140.0,
-                "green": 192.0,
+                "red": 39.0,
+                "green": 54.0,
+                "blue": 81.0,
+                "score": 0.48860010504722595,
+                "pixel_fraction": 0.08772861212491989
+            },
+            {
+                "red": 149.0,
+                "green": 189.0,
+                "blue": 235.0,
+                "score": 0.15180285274982452,
+                "pixel_fraction": 0.2822418808937073
+            },
+            {
+                "red": 168.0,
+                "green": 203.0,
                 "blue": 239.0,
-                "score": 0.35338354110717773,
-                "pixel_fraction": 0.33168143033981323
+                "score": 0.14756722748279572,
+                "pixel_fraction": 0.18690265715122223
             },
             {
-                "red": 35.0,
-                "green": 55.0,
-                "blue": 83.0,
-                "score": 0.29241880774497986,
-                "pixel_fraction": 0.09150442481040955
+                "red": 45.0,
+                "green": 59.0,
+                "blue": 38.0,
+                "score": 0.0008620850276201963,
+                "pixel_fraction": 0.002654867246747017
             },
             {
-                "red": 159.0,
-                "green": 205.0,
-                "blue": 243.0,
-                "score": 0.12804026901721954,
-                "pixel_fraction": 0.12294985353946686
-            },
-            {
-                "red": 52.0,
+                "red": 58.0,
                 "green": 75.0,
                 "blue": 106.0,
-                "score": 0.0731515884399414,
-                "pixel_fraction": 0.02454277314245701
-            },
-            {
-                "red": 123.0,
-                "green": 175.0,
-                "blue": 229.0,
-                "score": 0.041196245700120926,
-                "pixel_fraction": 0.13952802121639252
+                "score": 0.06869883090257645,
+                "pixel_fraction": 0.02176991105079651
             }
         ],
         "safe_search": {
@@ -4046,52 +3959,52 @@
         "objects": [
             {
                 "name": "Car",
-                "score": 0.5447885990142822,
+                "score": 0.5433571338653564,
                 "bounding_poly": [
                     {
-                        "x": 0.6484375,
-                        "y": 0.94921875
+                        "x": 0.40234375,
+                        "y": 0.93359375
                     },
                     {
-                        "x": 0.82421875,
-                        "y": 0.94921875
+                        "x": 0.55859375,
+                        "y": 0.93359375
                     },
                     {
-                        "x": 0.82421875,
+                        "x": 0.55859375,
                         "y": 0.99609375
                     },
                     {
-                        "x": 0.6484375,
+                        "x": 0.40234375,
                         "y": 0.99609375
                     }
                 ]
             },
             {
                 "name": "Car",
-                "score": 0.5265918970108032,
+                "score": 0.5176734328269958,
                 "bounding_poly": [
                     {
-                        "x": 0.40234375,
-                        "y": 0.93359375
+                        "x": 0.6484375,
+                        "y": 0.94921875
                     },
                     {
-                        "x": 0.55859375,
-                        "y": 0.93359375
+                        "x": 0.82421875,
+                        "y": 0.94921875
                     },
                     {
-                        "x": 0.55859375,
+                        "x": 0.82421875,
                         "y": 0.99609375
                     },
                     {
-                        "x": 0.40234375,
+                        "x": 0.6484375,
                         "y": 0.99609375
                     }
                 ]
             }
         ],
         "location": {
-            "lat": 42.351483099999996,
-            "lng": -71.0729965
+            "lat": 42.354620399999995,
+            "lng": -71.070785
         },
         "text_coordinates": [
             {
@@ -4106,11 +4019,11 @@
                         1582
                     ],
                     [
-                        1196,
+                        1195,
                         1600
                     ],
                     [
-                        1171,
+                        1170,
                         1602
                     ]
                 ]
@@ -4120,19 +4033,19 @@
                 "coords": [
                     [
                         1197,
-                        1581
+                        1582
                     ],
                     [
                         1227,
-                        1578
+                        1580
                     ],
                     [
-                        1229,
-                        1596
+                        1228,
+                        1598
                     ],
                     [
-                        1199,
-                        1599
+                        1198,
+                        1600
                     ]
                 ]
             },
@@ -4183,19 +4096,19 @@
                 "coords": [
                     [
                         1177,
-                        1646
-                    ],
-                    [
-                        1196,
-                        1644
+                        1647
                     ],
                     [
                         1197,
-                        1655
+                        1645
+                    ],
+                    [
+                        1198,
+                        1656
                     ],
                     [
                         1178,
-                        1657
+                        1658
                     ]
                 ]
             },
@@ -4204,19 +4117,19 @@
                 "coords": [
                     [
                         1201,
-                        1644
+                        1645
                     ],
                     [
                         1231,
-                        1641
+                        1642
                     ],
                     [
                         1232,
-                        1652
+                        1653
                     ],
                     [
                         1202,
-                        1655
+                        1656
                     ]
                 ]
             },
@@ -4242,23 +4155,23 @@
                 ]
             },
             {
-                "text": "ziper",
+                "text": "zipcr",
                 "coords": [
                     [
                         1192,
                         1704
                     ],
                     [
-                        1219,
+                        1220,
                         1703
                     ],
                     [
-                        1219,
-                        1713
+                        1221,
+                        1714
                     ],
                     [
                         1193,
-                        1714
+                        1715
                     ]
                 ]
             },
@@ -4267,19 +4180,19 @@
                 "coords": [
                     [
                         1220,
+                        1703
+                    ],
+                    [
+                        1240,
                         1702
                     ],
                     [
                         1240,
-                        1701
-                    ],
-                    [
-                        1241,
-                        1711
+                        1712
                     ],
                     [
                         1221,
-                        1712
+                        1713
                     ]
                 ]
             },
@@ -4317,11 +4230,11 @@
                     ],
                     [
                         1219,
-                        1723
+                        1724
                     ],
                     [
                         1195,
-                        1724
+                        1725
                     ]
                 ]
             },
@@ -4351,11 +4264,11 @@
                 "coords": [
                     [
                         1190,
-                        1754
+                        1755
                     ],
                     [
                         1213,
-                        1753
+                        1754
                     ],
                     [
                         1214,
@@ -4371,20 +4284,20 @@
                 "text": "ZONE",
                 "coords": [
                     [
-                        1217,
+                        1216,
                         1753
                     ],
                     [
                         1246,
-                        1752
+                        1751
                     ],
                     [
                         1247,
-                        1768
+                        1766
                     ],
                     [
-                        1218,
-                        1769
+                        1217,
+                        1768
                     ]
                 ]
             },
@@ -4417,37 +4330,16 @@
                         1797
                     ],
                     [
-                        1249,
-                        1795
+                        1250,
+                        1794
                     ],
                     [
-                        1250,
+                        1251,
                         1807
                     ],
                     [
                         1196,
                         1810
-                    ]
-                ]
-            },
-            {
-                "text": "ANY",
-                "coords": [
-                    [
-                        1212,
-                        1813
-                    ],
-                    [
-                        1236,
-                        1812
-                    ],
-                    [
-                        1236,
-                        1823
-                    ],
-                    [
-                        1212,
-                        1824
                     ]
                 ]
             },
@@ -4498,14 +4390,14 @@
                 "coords": [
                     [
                         1342,
-                        1795
+                        1794
+                    ],
+                    [
+                        1354,
+                        1792
                     ],
                     [
                         1355,
-                        1793
-                    ],
-                    [
-                        1356,
                         1799
                     ],
                     [
@@ -4518,20 +4410,41 @@
                 "text": "METER",
                 "coords": [
                     [
-                        1453,
-                        1788
-                    ],
-                    [
-                        1476,
+                        1452,
                         1787
                     ],
                     [
                         1476,
-                        1796
+                        1786
                     ],
                     [
-                        1453,
-                        1797
+                        1476,
+                        1795
+                    ],
+                    [
+                        1452,
+                        1796
+                    ]
+                ]
+            },
+            {
+                "text": "ANY",
+                "coords": [
+                    [
+                        1212,
+                        1813
+                    ],
+                    [
+                        1236,
+                        1812
+                    ],
+                    [
+                        1236,
+                        1823
+                    ],
+                    [
+                        1212,
+                        1824
                     ]
                 ]
             },
@@ -4561,26 +4474,43 @@
                 "coords": [
                     [
                         1349,
-                        1834
+                        1832
                     ],
                     [
-                        1362,
-                        1833
+                        1361,
+                        1831
                     ],
                     [
-                        1362,
+                        1361,
                         1838
                     ],
                     [
-                        1349,
+                        1350,
                         1839
                     ]
                 ]
+            },
+            {
+                "text": ">",
+                "coords": [
+                    [
+                        1349,
+                        1833
+                    ],
+                    [
+                        1363,
+                        1832
+                    ],
+                    [
+                        1363,
+                        1839
+                    ],
+                    [
+                        1350,
+                        1840
+                    ]
+                ]
             }
-        ],
-        "gps_location": {
-            "latitude": 42.351372222222224,
-            "longitude": -71.07341666666666
-        }
+        ]
     }
 ]

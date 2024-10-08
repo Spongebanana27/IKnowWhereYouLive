@@ -1,0 +1,322 @@
+{
+    "filename": "Data\\Original\\DSCN0029.jpg",
+    "landmarks": [
+        {
+            "name": "Uffizi Gallery",
+            "latitude": 43.767785599999996,
+            "longitude": 11.2553108,
+            "confidence": 0.5055243372917175
+        },
+        {
+            "name": "Residence Palazzo Belfiore",
+            "latitude": 43.766849,
+            "longitude": 11.2501477,
+            "confidence": 0.44100499153137207
+        },
+        {
+            "name": "Palazzo Vecchio",
+            "latitude": 43.7693012,
+            "longitude": 11.2561509,
+            "confidence": 0.4308130443096161
+        },
+        {
+            "name": "Ditta Artigianale, Firenze",
+            "latitude": 43.7669563,
+            "longitude": 11.2508928,
+            "confidence": 0.4291273355484009
+        }
+    ],
+    "labels": [
+        {
+            "label": "Car",
+            "score": 0.955788254737854
+        },
+        {
+            "label": "Automotive parking light",
+            "score": 0.9278595447540283
+        },
+        {
+            "label": "Vehicle",
+            "score": 0.9191554188728333
+        },
+        {
+            "label": "Building",
+            "score": 0.9128696918487549
+        },
+        {
+            "label": "Infrastructure",
+            "score": 0.900117039680481
+        },
+        {
+            "label": "Window",
+            "score": 0.8884070515632629
+        },
+        {
+            "label": "Vehicle registration plate",
+            "score": 0.8874730467796326
+        },
+        {
+            "label": "Sky",
+            "score": 0.8614560961723328
+        },
+        {
+            "label": "Road surface",
+            "score": 0.8561211228370667
+        },
+        {
+            "label": "Neighbourhood",
+            "score": 0.8183324337005615
+        }
+    ],
+    "web_entities": [
+        {
+            "entity": "Wyndham Danang Golden Bay",
+            "score": 0.5597000122070312
+        },
+        {
+            "entity": "Danang International Airport",
+            "score": 0.5138100385665894
+        },
+        {
+            "entity": "Car",
+            "score": 0.43320000171661377
+        },
+        {
+            "entity": "Hotel",
+            "score": 0.4309000074863434
+        },
+        {
+            "entity": "Tourism",
+            "score": 0.3953000009059906
+        },
+        {
+            "entity": "Image",
+            "score": 0.34929999709129333
+        },
+        {
+            "entity": "Da Nang Villa",
+            "score": 0.3190000057220459
+        },
+        {
+            "entity": "Vacation",
+            "score": 0.306012362241745
+        },
+        {
+            "entity": "Car rental",
+            "score": 0.2937000095844269
+        },
+        {
+            "entity": "Tripadvisor",
+            "score": 0.289900004863739
+        }
+    ],
+    "dominant_colors": [
+        {
+            "red": 57.0,
+            "green": 49.0,
+            "blue": 28.0,
+            "score": 0.1271311342716217,
+            "pixel_fraction": 0.05697682499885559
+        },
+        {
+            "red": 203.0,
+            "green": 196.0,
+            "blue": 186.0,
+            "score": 0.09488383680582047,
+            "pixel_fraction": 0.0561264269053936
+        },
+        {
+            "red": 84.0,
+            "green": 90.0,
+            "blue": 22.0,
+            "score": 0.038277946412563324,
+            "pixel_fraction": 0.0025512012653052807
+        },
+        {
+            "red": 88.0,
+            "green": 83.0,
+            "blue": 58.0,
+            "score": 0.0929533913731575,
+            "pixel_fraction": 0.06278789788484573
+        },
+        {
+            "red": 241.0,
+            "green": 237.0,
+            "blue": 228.0,
+            "score": 0.09213060885667801,
+            "pixel_fraction": 0.05315002426505089
+        }
+    ],
+    "safe_search": {
+        "adult": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "spoofed": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY",
+        "racy": "VERY_UNLIKELY"
+    },
+    "objects": [
+        {
+            "name": "Car",
+            "score": 0.88780677318573,
+            "bounding_poly": [
+                {
+                    "x": 0.267578125,
+                    "y": 0.76953125
+                },
+                {
+                    "x": 0.384765625,
+                    "y": 0.76953125
+                },
+                {
+                    "x": 0.384765625,
+                    "y": 0.890625
+                },
+                {
+                    "x": 0.267578125,
+                    "y": 0.890625
+                }
+            ]
+        },
+        {
+            "name": "Car",
+            "score": 0.8111779689788818,
+            "bounding_poly": [
+                {
+                    "x": 0.00028228759765625,
+                    "y": 0.80859375
+                },
+                {
+                    "x": 0.2451171875,
+                    "y": 0.80859375
+                },
+                {
+                    "x": 0.2451171875,
+                    "y": 0.9921875
+                },
+                {
+                    "x": 0.00028228759765625,
+                    "y": 0.9921875
+                }
+            ]
+        },
+        {
+            "name": "Building",
+            "score": 0.52080237865448,
+            "bounding_poly": [
+                {
+                    "x": 0.296875,
+                    "y": 0.06298828125
+                },
+                {
+                    "x": 0.53515625,
+                    "y": 0.06298828125
+                },
+                {
+                    "x": 0.53515625,
+                    "y": 0.859375
+                },
+                {
+                    "x": 0.296875,
+                    "y": 0.859375
+                }
+            ]
+        },
+        {
+            "name": "Plant",
+            "score": 0.5193718671798706,
+            "bounding_poly": [
+                {
+                    "x": 0.1591796875,
+                    "y": 0.318359375
+                },
+                {
+                    "x": 0.2734375,
+                    "y": 0.318359375
+                },
+                {
+                    "x": 0.2734375,
+                    "y": 0.57421875
+                },
+                {
+                    "x": 0.1591796875,
+                    "y": 0.57421875
+                }
+            ]
+        },
+        {
+            "name": "Building",
+            "score": 0.513258695602417,
+            "bounding_poly": [
+                {
+                    "x": 0.515625,
+                    "y": 0.0
+                },
+                {
+                    "x": 0.98828125,
+                    "y": 0.0
+                },
+                {
+                    "x": 0.98828125,
+                    "y": 0.9921875
+                },
+                {
+                    "x": 0.515625,
+                    "y": 0.9921875
+                }
+            ]
+        },
+        {
+            "name": "Plant",
+            "score": 0.5116853713989258,
+            "bounding_poly": [
+                {
+                    "x": 0.640625,
+                    "y": 0.1201171875
+                },
+                {
+                    "x": 0.73046875,
+                    "y": 0.1201171875
+                },
+                {
+                    "x": 0.73046875,
+                    "y": 0.302734375
+                },
+                {
+                    "x": 0.640625,
+                    "y": 0.302734375
+                }
+            ]
+        }
+    ],
+    "location": {
+        "lat": 43.767785599999996,
+        "lng": 11.2553108
+    },
+    "text_coordinates": [
+        {
+            "text": "K",
+            "coords": [
+                [
+                    199,
+                    393
+                ],
+                [
+                    203,
+                    393
+                ],
+                [
+                    203,
+                    397
+                ],
+                [
+                    199,
+                    397
+                ]
+            ]
+        }
+    ],
+    "gps_location": {
+        "latitude": 43.468243333330555,
+        "longitude": 11.880171666638889
+    }
+}
