@@ -4,8 +4,11 @@ import base64
 import os
 import webbrowser
 
+with open('config.json', 'r') as config_file:
+        config = json.load(config_file)
+
 url = "https://picarta.ai/classify"
-api_token = ""  # Replace with your actual API token
+api_token = config['picarta_api_key']  # Replace with your actual API token
 headers = {"Content-Type": "application/json"}
 
 # Prompt the user to enter a folder directory
