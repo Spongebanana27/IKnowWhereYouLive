@@ -17,6 +17,8 @@ folder_path = input("Enter a folder directory: ")
 # Get the absolute path of the folder
 absolute_path = os.path.abspath(folder_path)
 
+data = {}
+
 # Iterate over the files in the folder
 for file_name in os.listdir(absolute_path):
     # Check if the file is a JPEG file
@@ -36,7 +38,13 @@ for file_name in os.listdir(absolute_path):
 
         if response.status_code == 200:
             result = response.json()
-            print(result)
+            # print(result)
+            del result["topk_predictions_dict"]
+
+            key = f"{file_name}"
+            value = result
+            data[key] = value
+            print(key)
 
             # Check if "ai_lat" and "ai_lon" keys exist in the result dictionary
             if "ai_lat" in result and "ai_lon" in result:
@@ -48,7 +56,11 @@ for file_name in os.listdir(absolute_path):
                 osm_url = f"https://www.openstreetmap.org/?mlat={lat}&mlon={lon}&zoom=15"
 
                 # Open the OpenStreetMap URL in the web browser
-                webbrowser.open(osm_url)
+                # webbrowser.open(osm_url)
+
+                key = f"{file_name} Map URL"
+                data[key] = osm_url
+                print(osm_url)                
             else:
                 print("The keys 'ai_lat' and/or 'ai_lon' do not exist in the result dictionary.")
         else:
@@ -56,3 +68,10 @@ for file_name in os.listdir(absolute_path):
 
     else:
         print(f"Skipping file: {file_name}")
+
+# Serializing json
+json_output = json.dumps(data, indent=4)
+ 
+# Writing to sample.json
+with open("output.json", "w") as outfile:
+    outfile.write(json_output)
