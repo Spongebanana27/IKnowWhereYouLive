@@ -29,6 +29,16 @@ with open('strippedresult.csv', mode ='r')as file:
         long = line[2]
         google[file] = [lat, long]
 
+
+chatgpt = {}
+with open('chatgpt.csv', mode ='r')as file:
+  csvFile = csv.reader(file)
+  for line in csvFile:
+        file = line[0]
+        lat = line[1]
+        long = line[2]
+        chatgpt[file] = [lat, long]
+
 output = {}
 
 for image in actual.keys():
@@ -49,9 +59,16 @@ for image in actual.keys():
         gguess =  (f"{glat},{glong}")
         gmiles = geodesic(target, gguess).miles
 
+    clat = chatgpt[image][0]
+    clong = chatgpt[image][1]
+    cguess =  (f"{clat},{clong}")
+
+    cmiles = geodesic(target, cguess).miles
+
     data = {}
     data["picarta"] = f"{pmiles:.2f} miles"
     data["google"] = f"{gmiles:.2f} miles"
+    data["chatgpt"] = f"{cmiles:.2f} miles"
     output[image] = data
 
 # Serializing json

@@ -1,66 +1,82 @@
 {
     "DSCN0010.jpg": {
         "picarta": "537.75 miles",
-        "google": "4524.81 miles"
+        "google": "4524.81 miles",
+        "chatgpt": "37.83 miles"
     },
     "DSCN0012.jpg": {
         "picarta": "846.79 miles",
-        "google": "-1.00 miles"
+        "google": "-1.00 miles",
+        "chatgpt": "29.76 miles"
     },
     "DSCN0021.jpg": {
         "picarta": "0.04 miles",
-        "google": "0.06 miles"
+        "google": "0.06 miles",
+        "chatgpt": "37.82 miles"
     },
     "DSCN0025.jpg": {
         "picarta": "0.00 miles",
-        "google": "-1.00 miles"
+        "google": "-1.00 miles",
+        "chatgpt": "37.65 miles"
     },
     "DSCN0027.jpg": {
         "picarta": "0.00 miles",
-        "google": "0.07 miles"
+        "google": "0.07 miles",
+        "chatgpt": "37.65 miles"
     },
     "DSCN0029.jpg": {
         "picarta": "29.46 miles",
-        "google": "37.55 miles"
+        "google": "37.55 miles",
+        "chatgpt": "37.60 miles"
     },
     "DSCN0038.jpg": {
         "picarta": "22.06 miles",
-        "google": "-1.00 miles"
+        "google": "-1.00 miles",
+        "chatgpt": "31.37 miles"
     },
     "DSCN0040.jpg": {
         "picarta": "0.07 miles",
-        "google": "-1.00 miles"
+        "google": "-1.00 miles",
+        "chatgpt": "37.64 miles"
     },
     "DSCN0042.jpg": {
         "picarta": "0.12 miles",
-        "google": "-1.00 miles"
+        "google": "-1.00 miles",
+        "chatgpt": "46.53 miles"
     },
     "HMD_Nokia_8.3_5G.jpg": {
         "picarta": "0.14 miles",
-        "google": "-1.00 miles"
+        "google": "-1.00 miles",
+        "chatgpt": "1.89 miles"
     },
     "IMG_0007.JPEG": {
         "picarta": "499.41 miles",
-        "google": "-1.00 miles"
+        "google": "-1.00 miles",
+        "chatgpt": "0.78 miles"
     },
     "IMG_0030.JPEG": {
         "picarta": "0.16 miles",
-        "google": "-1.00 miles"
+        "google": "-1.00 miles",
+        "chatgpt": "125.47 miles"
     },
     "IMG_0170.JPEG": {
         "picarta": "520.28 miles",
-        "google": "-1.00 miles"
+        "google": "-1.00 miles",
+        "chatgpt": "6.01 miles"
     },
     "IMG_0615.JPEG": {
         "picarta": "1974.09 miles",
-        "google": "-1.00 miles"
+        "google": "-1.00 miles",
+        "chatgpt": "348.71 miles"
     },
     "IMG_4964.JPEG": {
         "picarta": "0.15 miles",
-        "google": "0.02 miles"
+        "google": "0.02 miles",
+        "chatgpt": "0.10 miles"
     },
     "IMG_4968.JPEG": {
         "picarta": "0.05 miles",
-        "google": "0.26 miles"
+        "google": "0.26 miles",
+        "chatgpt": "0.41 miles"
     }
 }
