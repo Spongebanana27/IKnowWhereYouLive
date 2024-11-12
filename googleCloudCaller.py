@@ -1,3 +1,5 @@
+# Much of the logic is sourced from https://github.com/PierrunoYT/photo-location-finder/blob/main/photolocationfinder.py
+
 import asyncio
 import os
 import json
@@ -33,7 +35,6 @@ class ImageProcessor:
     @retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, min=4, max=10))
     async def process_image(self, image_path: str):
         try:
-            print(f"Processing image: {image_path}")
             with open(image_path, 'rb') as image_file:
                 content = image_file.read()
 
@@ -49,31 +50,21 @@ class ImageProcessor:
             ]
 
             request = types.AnnotateImageRequest(image=image, features=features)
-            print("Sending request to Google Vision API...")
             response = self.client.annotate_image(request=request)
-            print("Received response from Google Vision API")
 
             if response.error.message:
                 raise Exception(f"[VISION API ERROR] - {response.error.message}")
 
-            print("Extracting data from response...")
             result_data = self.extract_data_from_response(response, image_path)
-            print("Data extraction complete")
 
-            print("Extracting text coordinates...")
             text_coordinates = self.extract_text_coordinates(response)
             result_data["text_coordinates"] = text_coordinates
-            print("Text coordinate extraction complete")
 
-            print("Checking for GPS data in EXIF...")
             gps_info = self.get_gps_from_exif(image_path)
             if gps_info:
-                print(f"GPS data found: {gps_info}")
                 result_data["gps_location"] = gps_info
-                print("Reverse geocoding GPS coordinates...")
                 address = await self.reverse_geocode(gps_info["latitude"], gps_info["longitude"])
                 if address:
-                    print(f"Address found: {address}")
                     result_data["address"] = address
                     place_details = await self.get_place_details(address["place_id"])
                     if place_details:
@@ -82,13 +73,10 @@ class ImageProcessor:
                     if street_view:
                         result_data["street_view"] = street_view
             elif result_data.get("landmarks"):
-                print(f"Landmarks found: {result_data['landmarks']}")
                 landmark = result_data["landmarks"][0]
                 result_data["location"] = {"lat": landmark["latitude"], "lng": landmark["longitude"]}
-                print("Reverse geocoding landmark coordinates...")
                 address = await self.reverse_geocode(landmark["latitude"], landmark["longitude"])
                 if address:
-                    print(f"Address found: {address}")
                     result_data["address"] = address
                     place_details = await self.get_place_details(address["place_id"])
                     if place_details:
@@ -97,15 +85,11 @@ class ImageProcessor:
                     if street_view:
                         result_data["street_view"] = street_view
             else:
-                print("No GPS data or landmarks found. Attempting to get location from text...")
                 location = await self.get_location_from_text(text_coordinates)
                 if location:
-                    print(f"Location found from text: {location}")
                     result_data["location"] = location
-                    print("Reverse geocoding location...")
                     address = await self.reverse_geocode(location["lat"], location["lng"])
                     if address:
-                        print(f"Address found: {address}")
                         result_data["address"] = address
                         place_details = await self.get_place_details(address["place_id"])
                         if place_details:
@@ -114,15 +98,11 @@ class ImageProcessor:
                         if street_view:
                             result_data["street_view"] = street_view
                 else:
-                    print("No location found from text. Attempting to get location from Google Maps API using labels...")
                     location = await self.get_location_from_google_maps_api(result_data["labels"][:3])
                     if location:
-                        print(f"Location found from Google Maps API using labels: {location}")
                         result_data["location"] = location
-                        print("Reverse geocoding location...")
                         address = await self.reverse_geocode(location["lat"], location["lng"])
                         if address:
-                            print(f"Address found: {address}")
                             result_data["address"] = address
                             place_details = await self.get_place_details(address["place_id"])
                             if place_details:
@@ -131,16 +111,12 @@ class ImageProcessor:
                             if street_view:
                                 result_data["street_view"] = street_view
                     else:
-                        print("No location found from Google Maps API using labels. Attempting with web entities...")
                         web_entities = [{"label": entity["entity"]} for entity in result_data["web_entities"][:3]]
                         location = await self.get_location_from_google_maps_api(web_entities)
                         if location:
-                            print(f"Location found from Google Maps API using web entities: {location}")
                             result_data["location"] = location
-                            print("Reverse geocoding location...")
                             address = await self.reverse_geocode(location["lat"], location["lng"])
                             if address:
-                                print(f"Address found: {address}")
                                 result_data["address"] = address
                                 place_details = await self.get_place_details(address["place_id"])
                                 if place_details:
@@ -148,16 +124,12 @@ class ImageProcessor:
                                 street_view = await self.get_street_view(location["lat"], location["lng"])
                                 if street_view:
                                     result_data["street_view"] = street_view
-                        else:
-                            print("No location found from any method")
 
-            print("Saving intermediate result...")
             await self.save_intermediate_result(result_data)
             print("Processing complete")
             return result_data
 
         except Exception as e:
-            print(f"[PROCESSING ERROR][Image '{image_path}']: {str(e)}")
             return {"error": str(e), "filename": image_path}
 
     async def get_location_from_text(self, text_coordinates):
@@ -304,7 +276,6 @@ class ImageProcessor:
         intermediate_file = Path(f'intermediate_results_{int(time.time())}.json')
         with intermediate_file.open("w") as f:
             json.dump(result_data, f, indent=4)
-        print(f"Intermediate result saved to '{intermediate_file.absolute()}'.")
 
     def get_gps_from_exif(self, image_path):
         try:
@@ -346,17 +317,10 @@ class ImageProcessor:
         await self.initialize()
         image_files = self.get_files_by_extension(["png", "jpg", "jpeg"])
         num_images = len(image_files)
+
         if num_images == 0:
             print("No images found in the specified directory.")
             return
-
-        print(f"{num_images} image files found.")
-
-        if num_images > 100 and self.prompt_for_confirmation:
-            confirm = input(f"WARNING: {num_images} images found. Continue? (y/n): ")
-            if not confirm.lower().startswith("y"):
-                print("Operation cancelled.")
-                return
 
         tasks = [self.process_image(str(img_f)) for img_f in image_files]
         results = await asyncio.gather(*tasks)
