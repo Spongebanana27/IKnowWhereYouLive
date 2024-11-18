@@ -1,4 +1,4 @@
-# Much of the logic is sourced from https://github.com/PierrunoYT/photo-location-finder/blob/main/photolocationfinder.py
+# Sourced from https://github.com/PierrunoYT/photo-location-finder/blob/main/photolocationfinder.py
 
 import asyncio
 import os

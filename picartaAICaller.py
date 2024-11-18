@@ -1,4 +1,4 @@
-# Much of the logic is sourced from https://github.com/PierrunoYT/photo-location-finder-2/blob/main/photolocationfinder2.py
+# Sourced from https://github.com/PierrunoYT/photo-location-finder-2/blob/main/photolocationfinder2.py
 
 import requests
 import json
