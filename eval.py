@@ -37,6 +37,7 @@ for key, image in data.items():
     gdistance = image["google"].strip().replace("miles","")
     cdistance = image["chatgpt"].strip().replace("miles","")
     nimages = nimages + 1
+    
     if "-1" not in pdistance:
         pguesses = pguesses + 1
         ptotal = ptotal + float(pdistance)
@@ -46,23 +47,25 @@ for key, image in data.items():
         if pworst == 10000000 or pworst < float(pdistance):
             pworst = float(pdistance)
             pworstimg = key
+
     if "-1" not in gdistance:
         gguesses = gguesses + 1
         gtotal = gtotal + float(gdistance)
         if gbest == -1 or gbest > float(gdistance):
             gbest = float(gdistance)
             gbestimg = key
-        if gworst == 10000000 or gworst < float(pdistance):
-            gworst = float(pdistance)
+        if gworst == 10000000 or gworst < float(gdistance):
+            gworst = float(gdistance)
             gworstimg = key
+
     if "-1" not in cdistance:
         cguesses = cguesses + 1
         ctotal = ctotal + float(cdistance)  
         if cbest == -1 or cbest > float(cdistance):
             cbest = float(cdistance) 
             cbestimg = key
-        if cworst == 10000000 or cworst < float(pdistance):
-            cworst = float(pdistance)
+        if cworst == 10000000 or cworst < float(cdistance):
+            cworst = float(cdistance)
             cworstimg = key
         
 print("Number of images tested")
